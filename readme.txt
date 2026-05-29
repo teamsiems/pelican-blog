@@ -7,8 +7,8 @@ pelican --listen
 
 3:38 PM 5/28/2026
 Files with images without title or alt text:
-[X] content\215.md (1 image(s))
-[X] content\218.md (1 image(s))
+[x] content\215.md (1 image(s))
+[x] content\218.md (1 image(s))
 content\black-mask-black-flag.md (1 image(s))
 content\breaking-records-in-heat-and-inflation.md (1 image(s))
 content\expect-polar-coaster-this-winter.md (1 image(s))
@@ -33,10 +33,11 @@ content\u-s-capitol-mobbed.md (1 image(s))
 
 3:39 PM 5/28/2026
 Files that need (a slug) to be renamed:
-215.md -> web-usability-training-10-30-2008
-217.md -> web-usability-training-10-31-2008
-218.md -> web-site-navigation-schema-proof
-248.md -> 
+[x] 215.md -> web-usability-training-10-30-2008.md
+[x] 217.md -> web-usability-training-10-31-2008.md
+[x] 218.md -> web-site-navigation-schema-proof.md
+[x] 248.md -> xslt-and-org-apache-xalan-xslt-process.md
+
 Try exporting them after changing them in WordPress.
 
 
