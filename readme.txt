@@ -35,7 +35,7 @@ content\u-s-capitol-mobbed.md (1 image(s))
 Files that need (a slug) to be renamed:
 215.md -> web-usability-training-10-30-2008
 217.md -> web-usability-training-10-31-2008
-218.md -> 
+218.md -> web-site-navigation-schema-proof
 248.md -> 
 Try exporting them after changing them in WordPress.
 
