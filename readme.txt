@@ -7,8 +7,8 @@ pelican --listen
 
 3:38 PM 5/28/2026
 Files with images without title or alt text:
-content\215.md (1 image(s))
-content\218.md (1 image(s))
+[X] content\215.md (1 image(s))
+[X] content\218.md (1 image(s))
 content\black-mask-black-flag.md (1 image(s))
 content\breaking-records-in-heat-and-inflation.md (1 image(s))
 content\expect-polar-coaster-this-winter.md (1 image(s))
