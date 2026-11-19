@@ -40,4 +40,15 @@ Files that need (a slug) to be renamed:
 
 Try exporting them after changing them in WordPress.
 
+11:25 AM 11/19/2026
+pelican-import --wpfile -o content -m markdown teamsiems.WordPress.2026-11-19.xml
+pelican content
+pelican --listen
 
+11:52 AM 11/19/2026
+[11:50:57] WARNING  Empty alt attribute for image farmers-almanac-map-2019.jpg?_i=AA in C:\xampp\htdocs\pelican-blog\content\expect-polar-coaster-this-winter.md         readers.py:734
+           WARNING  Empty alt attribute for image QR-Code.jpg?_i=AA in C:\xampp\htdocs\pelican-blog\content\qr-code.md                                                   readers.py:734
+[11:50:58] WARNING  Empty alt attribute for image Hurricane-Fiona-20220919.png?_i=AA in C:\xampp\htdocs\pelican-blog\content\the-2022-hurricane-season.md                readers.py:734
+           WARNING  Empty alt attribute for image Tropical-Storm-Ian-20220924.png?_i=AA in C:\xampp\htdocs\pelican-blog\content\the-2022-hurricane-season.md             readers.py:734
+           WARNING  Other images have empty alt attributes                                                                                                               readers.py:734
+Done: Processed 591 articles, 0 drafts, 0 hidden articles, 0 pages, 0 hidden pages and 0 draft pages in 4.70 seconds.
