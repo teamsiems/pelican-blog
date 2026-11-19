@@ -41,7 +41,7 @@ The third storm formed Monday, June 1 - the official start of hurricane season -
 Cristobal's center is forecast to move inland across Louisiana late Sunday and Monday. Winds are 40 miles per hour some strengthening is forecast. The main threats are surge and flooding. Rain totals through Wednesday (6/10) may top 8-12 inches.
 \*\*UPDATE 6/6/2020 2100 UTC\*\*: Tropical Storm Cristobal is located about 280 south-southwest of the mouth of the Mississippi River with winds of 50 miles per hour moving north at 12 miles per hour.
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993165/TS-Cristobal-landfall-20200607/TS-Cristobal-landfall-20200607.jpg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993165/TS-Cristobal-landfall-20200607/TS-Cristobal-landfall-20200607.jpg?_i=AA)
+[![I-storm](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993165/TS-Cristobal-landfall-20200607/TS-Cristobal-landfall-20200607.jpg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993165/TS-Cristobal-landfall-20200607/TS-Cristobal-landfall-20200607.jpg?_i=AA)
 
 \*\*UPDATE 6/7/2020 2100 UTC\*\*: Tropical Storm Cristobal is located about 65 south of [New Orleans, Louisiana](https://goo.gl/maps/Kdr69HoK9smjS7JD6) with winds of 50 miles per hour moving north at 7 miles per hour.
 At 5:10 CDT (2110 UTC) Tropical Storm Cristobal made landfall about 50 miles south-southeast of New Orleans.
@@ -73,7 +73,7 @@ Tropical Storm Gonzalo is expected to become a hurricane by Thursday as it moves
 \*\*UPDATE 7/25/2020 2100 UTC\*\*: Remnants of Gonzalo are located about 125 miles west-northwest of Trinidad with winds of 35 miles per hour.
 ## Hanna
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993185/TD8-20200722/TD8-20200722.jpeg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993185/TD8-20200722/TD8-20200722.jpeg?_i=AA)
+[![I-storm](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993185/TD8-20200722/TD8-20200722.jpeg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993185/TD8-20200722/TD8-20200722.jpeg?_i=AA)
 
 [Tropical Depression 8](https://www.nhc.noaa.gov/archive/2020/EIGHT.shtml?) formed Wednesday (July 22) about 530 miles east-southeast of Port O'Connor, Texas with winds of 30 miles per hour moving west-northwest at 6 miles per hour. Some strengthening is expected, and the depression could become a tropical storm in a day or so. The depression is expected to produce 2 to 4 inches of rain with isolated maximum totals of 6 inches along the Gulf coast from Louisiana to the Lower Texas coast, and inland through south-central Texas and the Rio Grande Valley.
 \*\*UPDATE 7/23/2020 2200 CDT\*\*: TD8 strengthens to [Tropical Storm Hanna](https://www.nhc.noaa.gov/archive/2020/HANNA.shtml?) by 10 pm CDT. It's located about 385 miles east-southeast of Corpus Christi, Texas, with winds of 40 miles per hour moving west-northwest at 7 miles per hour.
@@ -82,13 +82,13 @@ Tropical Storm Gonzalo is expected to become a hurricane by Thursday as it moves
 > Source: @[philklotzbach](https://twitter.com/philklotzbach/status/1286496603474243584) on Twitter
 \*\*UPDATE 7/24/2020 2100 UTC\*\*: Tropical Storm Hanna is located about 195 miles east of Corpus Christi, Texas, with winds of 50 miles per hour moving west at 10 miles per hour.
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993180/HurricaneHanna20200725/HurricaneHanna20200725.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993180/HurricaneHanna20200725/HurricaneHanna20200725.png?_i=AA)
+[![I-storm](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993180/HurricaneHanna20200725/HurricaneHanna20200725.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993180/HurricaneHanna20200725/HurricaneHanna20200725.png?_i=AA)
 
 \*\*UPDATE 7/25/2020 1500 UTC\*\*: Hurricane Hanna strengthened this morning and is located about 75 miles east-northeast of [Port Mansfield, Texas](https://www.google.com/maps/place/Port+Mansfield,+TX/@26.5600024,-97.4696668,13z/data=!3m1!4b1!4m5!3m4!1s0x866f14d182e93e49:0x50ae1845fc5b8bde!8m2!3d26.5547882!4d-97.4249807), with winds of 80 miles per hour moving west at 7 miles per hour.
 \*\*UPDATE 7/26/2020 0000 UTC\*\*: Hurricane Hanna made landfall near Padre Island, Texas, around 5:00 PM CDT and again around 6:00 PM CDT in Kenedy County, Texas. Present located about 10 miles northwest of Port Mansfield, Texas, with winds of 85 miles per hour moving west-southwest at 8 miles per hour. Rapid weakening is expected as Hanna moves farther inland.
 \*\*UPDATE 7/26/2020 2100 UTC\*\*: Hanna weakened to a Tropical Depression over northeastern Mexico. Tropical Depression Hanna is located about 35 miles west-southwest of Monterrey, Mexico, with winds of 35 miles per hour moving west-southwest at 9 miles per hour.
 
-![](https://mediad.publicbroadcasting.net/p/wcqs/files/styles/x_large/public/201709/saffir_simpson_scale_3.jpg){: .img-fluid }
+![I-storm](https://mediad.publicbroadcasting.net/p/wcqs/files/styles/x_large/public/201709/saffir_simpson_scale_3.jpg){: .img-fluid }
 
 ## Isaias
 
@@ -110,7 +110,7 @@ Isaias is expected to regain hurricane strength tonight. Slow weakening is expec
 \*\*\*\*UPDATE\*\*\*\* \*\*8/3/2020 2100 UTC\*\*: Tropical Storm Isaias is located about 60 miles south-southeast of Charleston, South Carolina, with winds of 70 miles per hour moving north-northeast at 16 miles per hour.
 Isaias is expected to make landfall tonight at or near hurricane strength along the coast of northeastern South Carolina or southern North Carolina.
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993181/Hurricane-Isaias-20200804/Hurricane-Isaias-20200804.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993181/Hurricane-Isaias-20200804/Hurricane-Isaias-20200804.png?_i=AA)
+[![wed](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993181/Hurricane-Isaias-20200804/Hurricane-Isaias-20200804.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993181/Hurricane-Isaias-20200804/Hurricane-Isaias-20200804.png?_i=AA)
 
 \*\*\*\*UPDATE\*\*\*\* \*\*8/4/2020 0400 UTC\*\*: Hurricane Isaias made landfall near [Wilmington, North Carolina](https://www.google.com/maps/place/Wilmington,+NC/@34.207258,-77.942111,12z/data=!3m1!4b1!4m5!3m4!1s0x89a9f5a20debaed5:0x5e66493884093032!8m2!3d34.2103826!4d-77.8868008), shortly before 12:00 AM EDT with max winds of 85 miles per hour. Hurricane Isaias is located about 30 miles west of Wilmington, North Carolina, with winds of 85 miles per hour moving north-northwest at 22 miles per hour.
 \*\*UPDATE 8/4/2020 2100 UTC\*\*: Tropical Storm Isaias is located about 20 miles west of Albany, New York with winds of 65 miles per hour moving north-northeast at 40 miles per hour.
@@ -130,7 +130,7 @@ Tropical Depression Thirteen strengthened into [Tropical Storm Laura](https://ww
 \*\*UPDATE 8/21/2020 2100 UTC\*\*: Tropical Storm Laura is located about 40 miles east of [Antigua](https://goo.gl/maps/6DkyRewan2kFeUGE9) with winds of 45 miles per hour moving west at 17 miles per hour.
 \*\*UPDATE 8/22/2020 2100 UTC\*\*: Tropical Storm Laura is located about 100 miles west of [Ponce, Puerto Rico](https://goo.gl/maps/VoSSnegkn8G1yXmX6) with winds of 50 miles per hour moving west at 18 miles per hour.
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993177/TS-Laura-20200823/TS-Laura-20200823.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993177/TS-Laura-20200823/TS-Laura-20200823.png?_i=AA)
+[![wed](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993177/TS-Laura-20200823/TS-Laura-20200823.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993177/TS-Laura-20200823/TS-Laura-20200823.png?_i=AA)
 
 \*\*UPDATE 8/23/2020 1500 UTC\*\*: Tropical Storm Laura is located about 115 miles northwest of [Port Au Prince, Haiti](https://goo.gl/maps/hJxMxBbzt2BZEJyV7) with winds of 50 miles per hour moving west-northwest at 21 miles per hour.
 Laura is expected to move over the central and northwestern Gulf of Mexico Tuesday night and Wednesday. Strengthening is forecast after the storm moves over the Gulf of Mexico, and Laura is forecast to become a hurricane late Tuesday or Tuesday night.
@@ -139,14 +139,14 @@ Laura is expected to move over the central and northwestern Gulf of Mexico Tuesd
 \*\*UPDATE 8/23/2020 2100 UTC\*\*: Tropical Storm Laura is located about 40 miles east of the [Isle of Youth](https://goo.gl/maps/byA4yJMGeaTpCtr79) winds of 60 miles per hour moving west-northwest at 20 miles per hour.
 Strengthening is expected when the storm moves over the Gulf of Mexico, and Laura is forecast to become a hurricane by late Tuesday. Additional strengthening is forecast on Wednesday.
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993176/Hurricane-Laura-20200825/Hurricane-Laura-20200825.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993176/Hurricane-Laura-20200825/Hurricane-Laura-20200825.png?_i=AA)
+[![wed](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993176/Hurricane-Laura-20200825/Hurricane-Laura-20200825.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993176/Hurricane-Laura-20200825/Hurricane-Laura-20200825.png?_i=AA)
 
 \*\*UPDATE 8/25/2020 1500 UTC\*\*: Hurricane Laura is located about 620 miles southeast of [Galveston, Texas](https://goo.gl/maps/2B5NqcTm8M2eygg39) with winds of 75 miles per hour moving west-northwest at 16 miles per hour.
 Laura is expected to strengthen over the next 24 hours and make landfall near [Beaumont, Texas](https://goo.gl/maps/AZdTkumP8Eigsvb79) late Wednesday night to early Thursday morning as a category 3 hurricane.
 \*\*UPDATE 8/25/2020 2100 UTC\*\*: Hurricane Laura is located about 480 miles southeast of [Lake Charles, Louisiana](https://goo.gl/maps/CpncbBWKM2Sg3Vnj6) with winds of 80 miles per hour moving west-northwest at 17 miles per hour.
 Laura is still expected to strengthen over the next 24 hours and make landfall near Sabine Lake, Texas, as a category 3 hurricane.
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993175/Hurricane-20200826-2PM-Radar/Hurricane-20200826-2PM-Radar.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993175/Hurricane-20200826-2PM-Radar/Hurricane-20200826-2PM-Radar.png?_i=AA)
+[![wed](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993175/Hurricane-20200826-2PM-Radar/Hurricane-20200826-2PM-Radar.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993175/Hurricane-20200826-2PM-Radar/Hurricane-20200826-2PM-Radar.png?_i=AA)
 
 \*\*UPDATE 8/26/2020 1500 UTC\*\*: Hurricane Laura is located about 235 miles southeast of [Galveston, Texas](https://goo.gl/maps/2B5NqcTm8M2eygg39) with winds of 125 miles per hour moving northwest at 16 miles per hour.
 Laura strengthened to category 4 hurricane by 1:00 PM CDT with winds of 140+ miles per hour. Catastrophic storm surge, extreme winds, and flash flooding expected along the northwest gulf coast tonight.

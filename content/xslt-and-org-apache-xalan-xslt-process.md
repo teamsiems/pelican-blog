@@ -7,66 +7,32 @@ Slug: xslt-and-org-apache-xalan-xslt-process
 Status: published
 
 I had to download and open the Xalan package from a mirror site at [http://www.apache.org/dyn/closer.cgi/xml/xalan-j](http://www.apache.org/dyn/closer.cgi/xml/xalan-j "http://www.apache.org/dyn/closer.cgi/xml/xalan-j").
-
 I had to set the class path in DOS. I read [http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html](http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html "http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html") to find the command.
-
 ```
-set CLASSPATH=C:\xalan-j_2_7_1\xalan.jar;C:\xalan-j_2_7_1\serializer.jar;C:\xalan-j_2_7_1\xml-apis.jar;C:\xalan-j_2_7_1\xercesImpl.jar
+set CLASSPATH=C:\xalan-j\_2\_7\_1\xalan.jar;C:\xalan-j\_2\_7\_1\serializer.jar;C:\xalan-j\_2\_7\_1\xml-apis.jar;C:\xalan-j\_2\_7\_1\xercesImpl.jar
 ```
-
 You have to set each path you need and seperate them with semicolons (;). I read [http://xml.apache.org/xalan-j/getstarted.html](http://xml.apache.org/xalan-j/getstarted.html "http://xml.apache.org/xalan-j/getstarted.html") to find which .jar files I needed in the path. Then I dug through my computer to find them. Another note, the path needs to be set each time you run DOS.
-
-Finally, I was able to run the Hello World transform that I found at [http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm](http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm "http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm").
-
+Finally, I was able to run the Hello World transform that I found at [http://docstore.mik.ua/orelly/xml/xslt/ch02\_02.htm](http://docstore.mik.ua/orelly/xml/xslt/ch02\_02.htm "http://docstore.mik.ua/orelly/xml/xslt/ch02\_02.htm").
 greeting.xml:
-
 ```
-<?xml version="1.0"?>
-<greeting>
-  Hello, World!
-</greeting>
-```
+xml version="1.0"?
 
+Hello, World!
+```
 greeting.xsl:
-
-```
-<xsl:stylesheet
-     xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-     version="1.0">
-  <xsl:output method="html"/>
-
-  <xsl:template match="/">
-    <xsl:apply-templates select="greeting"/>
-  </xsl:template>
-
-  <xsl:template match="greeting">
-    <html>
-      <body>
-        <h1>
-          <xsl:value-of select="."/>
-        </h1>
-      </body>
-    </html>
-  </xsl:template>
-</xsl:stylesheet>
 ```
 
+#
+
+```
 Use the command
-
 ```
 java org.apache.xalan.xslt.Process -in greeting.xml -xsl greeting.xsl -out greeting.html
 ```
-
 And it worked!
-
 greeting.html:
-
 ```
-<html>
-<body>
-<h1>
-  Hello, World!
-</h1>
-</body>
-</html>
+
+# Hello, World!
+
 ```

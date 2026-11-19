@@ -38,51 +38,30 @@
 					<main><article>
 	<h2>XSLT and org.apache.xalan.xslt.Process</h2>
 	<p><small>By chris on 2009-07-08</small></p>
-	<p>I had to download and open the Xalan package from a mirror site at <a href="http://www.apache.org/dyn/closer.cgi/xml/xalan-j" title="http://www.apache.org/dyn/closer.cgi/xml/xalan-j">http://www.apache.org/dyn/closer.cgi/xml/xalan-j</a>.</p>
-<p>I had to set the class path in DOS. I read <a href="http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html" title="http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html">http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html</a> to find the command.</p>
-<pre><code>set CLASSPATH=C:\xalan-j_2_7_1\xalan.jar;C:\xalan-j_2_7_1\serializer.jar;C:\xalan-j_2_7_1\xml-apis.jar;C:\xalan-j_2_7_1\xercesImpl.jar
+	<p>I had to download and open the Xalan package from a mirror site at <a href="http://www.apache.org/dyn/closer.cgi/xml/xalan-j" title="http://www.apache.org/dyn/closer.cgi/xml/xalan-j">http://www.apache.org/dyn/closer.cgi/xml/xalan-j</a>.
+I had to set the class path in DOS. I read <a href="http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html" title="http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html">http://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/classpath.html</a> to find the command.</p>
+<pre><code>set CLASSPATH=C:\xalan-j\_2\_7\_1\xalan.jar;C:\xalan-j\_2\_7\_1\serializer.jar;C:\xalan-j\_2\_7\_1\xml-apis.jar;C:\xalan-j\_2\_7\_1\xercesImpl.jar
 </code></pre>
-<p>You have to set each path you need and seperate them with semicolons (;). I read <a href="http://xml.apache.org/xalan-j/getstarted.html" title="http://xml.apache.org/xalan-j/getstarted.html">http://xml.apache.org/xalan-j/getstarted.html</a> to find which .jar files I needed in the path. Then I dug through my computer to find them. Another note, the path needs to be set each time you run DOS.</p>
-<p>Finally, I was able to run the Hello World transform that I found at <a href="http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm" title="http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm">http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm</a>.</p>
-<p>greeting.xml:</p>
-<pre><code>&lt;?xml version=&quot;1.0&quot;?&gt;
-&lt;greeting&gt;
-  Hello, World!
-&lt;/greeting&gt;
+<p>You have to set each path you need and seperate them with semicolons (;). I read <a href="http://xml.apache.org/xalan-j/getstarted.html" title="http://xml.apache.org/xalan-j/getstarted.html">http://xml.apache.org/xalan-j/getstarted.html</a> to find which .jar files I needed in the path. Then I dug through my computer to find them. Another note, the path needs to be set each time you run DOS.
+Finally, I was able to run the Hello World transform that I found at <a href="http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm" title="http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm">http://docstore.mik.ua/orelly/xml/xslt/ch02_02.htm</a>.
+greeting.xml:</p>
+<pre><code>xml version=&quot;1.0&quot;?
+
+Hello, World!
 </code></pre>
 <p>greeting.xsl:</p>
-<pre><code>&lt;xsl:stylesheet
-     xmlns:xsl=&quot;http://www.w3.org/1999/XSL/Transform&quot;
-     version=&quot;1.0&quot;&gt;
-  &lt;xsl:output method=&quot;html&quot;/&gt;
+<pre><code>
+#
 
-  &lt;xsl:template match=&quot;/&quot;&gt;
-    &lt;xsl:apply-templates select=&quot;greeting&quot;/&gt;
-  &lt;/xsl:template&gt;
-
-  &lt;xsl:template match=&quot;greeting&quot;&gt;
-    &lt;html&gt;
-      &lt;body&gt;
-        &lt;h1&gt;
-          &lt;xsl:value-of select=&quot;.&quot;/&gt;
-        &lt;/h1&gt;
-      &lt;/body&gt;
-    &lt;/html&gt;
-  &lt;/xsl:template&gt;
-&lt;/xsl:stylesheet&gt;
 </code></pre>
 <p>Use the command</p>
 <pre><code>java org.apache.xalan.xslt.Process -in greeting.xml -xsl greeting.xsl -out greeting.html
 </code></pre>
-<p>And it worked!</p>
-<p>greeting.html:</p>
-<pre><code>&lt;html&gt;
-&lt;body&gt;
-&lt;h1&gt;
-  Hello, World!
-&lt;/h1&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+<p>And it worked!
+greeting.html:</p>
+<pre><code>
+# Hello, World!
+
 </code></pre>
 </article>
 
