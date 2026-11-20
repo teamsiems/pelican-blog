@@ -1,19 +1,7 @@
-[16:09:20] WARNING  Empty alt attribute for image PresidentTrumpCoronaVirusPositive20201001.png?_i=AA in                                     readers.py:734
-                    C:\xampp\htdocs\pelican-blog\content\president-tests-positive-for-covid-19.md                                                          
-           WARNING  Empty alt attribute for image                                                                                            readers.py:734
-                    svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzAwIiBoZWlnaHQ9IjczMCI+PHJlY3Qgd2lkdGg9I               
-                    jEwMCUiIGhlaWdodD0iMTAwJSI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZmlsbCIgdmFsdWVzPSJyZ2JhKDE1MywxNTMsMTUzLDAuNSk7cmdiYSgxNTMsM               
-                    TUzLDE1MywwLjEpO3JnYmEoMTUzLDE1MywxNTMsMC41KSIgZHVyPSIycyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+PC9yZWN0Pjwvc3ZnPg== in                 
-                    C:\xampp\htdocs\pelican-blog\content\the-2024-hurricane-season.md                                                                      
-           WARNING  Empty alt attribute for image                                                                                            readers.py:734
-                    svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MzAiIGhlaWdodD0iMzU0Ij48cmVjdCB3aWR0aD0iM               
-                    TAwJSIgaGVpZ2h0PSIxMDAlIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJmaWxsIiB2YWx1ZXM9InJnYmEoMTUzLDE1MywxNTMsMC41KTtyZ2JhKDE1MywxN               
-                    TMsMTUzLDAuMSk7cmdiYSgxNTMsMTUzLDE1MywwLjUpIiBkdXI9IjJzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz48L3JlY3Q+PC9zdmc+ in                     
-                    C:\xampp\htdocs\pelican-blog\content\the-2024-hurricane-season.md                                                                      
-           WARNING  Empty alt attribute for image                                                                                            readers.py:734
-                    svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjEwMDAiPjxyZWN0IHdpZHRoP               
-                    SIxMDAlIiBoZWlnaHQ9IjEwMCUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImZpbGwiIHZhbHVlcz0icmdiYSgxNTMsMTUzLDE1MywwLjUpO3JnYmEoMTUzL               
-                    DE1MywxNTMsMC4xKTtyZ2JhKDE1MywxNTMsMTUzLDAuNSkiIGR1cj0iMnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPjwvcmVjdD48L3N2Zz4= in                 
-                    C:\xampp\htdocs\pelican-blog\content\the-2024-hurricane-season.md                                                                      
-           WARNING  Other images have empty alt attributes                                                                                   readers.py:734
-Done: Processed 591 articles, 0 drafts, 0 hidden articles, 0 pages, 0 hidden pages and 0 draft pages in 4.25 seconds.
+[18:35:09] WARNING  Empty alt attribute for image Hurricane-Jose-20170916.png?_i=AA in C:\xampp\htdocs\pelican-blog\content\hurricane-jose.md                                      readers.py:734
+           WARNING  Empty alt attribute for image FivePresidents.jpg?_i=AA in C:\xampp\htdocs\pelican-blog\content\five-presidents-visit-aggieland.md                              readers.py:734
+[18:35:10] WARNING  Empty alt attribute for image PresidentTrumpCoronaVirusPositive20201001.png?_i=AA in                                                                           readers.py:734
+                    C:\xampp\htdocs\pelican-blog\content\president-tests-positive-for-covid-19.md                                                                                                
+           WARNING  Empty alt attribute for image nhc-pacific-08-25-2026.png?_i=AA in C:\xampp\htdocs\pelican-blog\content\the-2026-hurricane-season.md                            readers.py:734
+           WARNING  Other images have empty alt attributes                                                                                                                         readers.py:734
+Done: Processed 591 articles, 0 drafts, 0 hidden articles, 0 pages, 0 hidden pages and 0 draft pages in 18.59 seconds.
