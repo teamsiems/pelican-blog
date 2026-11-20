@@ -2,4 +2,4 @@
 
 - [Get Pelican](https://getpelican.com/)
 - [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-- [teamsiems blog](docs/index.html)
+- [teamsiems blog](https://teamsiems.github.io/pelican-blog/docs/index.html)
