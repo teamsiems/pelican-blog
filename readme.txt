@@ -52,3 +52,9 @@ pelican --listen
            WARNING  Empty alt attribute for image Tropical-Storm-Ian-20220924.png?_i=AA in C:\xampp\htdocs\pelican-blog\content\the-2022-hurricane-season.md             readers.py:734
            WARNING  Other images have empty alt attributes                                                                                                               readers.py:734
 Done: Processed 591 articles, 0 drafts, 0 hidden articles, 0 pages, 0 hidden pages and 0 draft pages in 4.70 seconds.
+
+
+5:35 PM 11/21/2026
+pelican-import --wpfile -o content -m markdown teamsiems.WordPress.2026-11-21.xml
+pelican content
+pelican --listen

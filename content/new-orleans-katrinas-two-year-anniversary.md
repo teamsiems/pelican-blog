@@ -6,7 +6,7 @@ Tags: Bush, Katrina
 Slug: new-orleans-katrinas-two-year-anniversary
 Status: published
 
-\*\*Bush Sees "Better Days" For New Orleans\\*\*
+**Bush Sees "Better Days" For New Orleans\**
 President Tells Storm-Ravaged City "We're Still Paying Attention" On Katrina's Two-Year Anniversary (CBS/AP)
 President Bush commemorated Hurricane Katrina's devastating blow Wednesday with a somber moment of silence. Across town, in a symbol of a federal-city divide that persists two years after the killer storm, New Orleans Mayor Ray Nagin marked the levee-breach moment with bell-ringing.
 [Bush Marks Hurricane Katrina Anniversary With Visit to New Orleans](http://voanews.com/english/2007-08-29-voa24.cfm)

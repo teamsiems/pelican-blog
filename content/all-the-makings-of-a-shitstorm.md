@@ -19,7 +19,7 @@ And he put the rest of the United States on notice. He threatened to invoke the 
 >
 > Source: [CNN](https://www.cnn.com/2020/06/01/politics/donald-trump-national-address-race/index.html)
 But, the world is paying attention and they support the protests 100%.
-> \*\*Global Anger Grows Over George Floyd Death, and Becomes an Anti-Trump Cudgel\\*\*
+> **Global Anger Grows Over George Floyd Death, and Becomes an Anti-Trump Cudgel\**
 > The criticism thundered from the streets of Berlin, London, Paris and Vancouver, to capitals in Africa, Latin America and the Middle East.
 >
 > Source: [NY Times](https://www.nytimes.com/2020/06/01/world/asia/george-floyd-protest-global.html)
@@ -29,11 +29,11 @@ Meanwhile, Governor Greg Abbott deployed the Texas National Guard to major citie
 > Source: [News 4 San Antonio](https://news4sanantonio.com/news/local/governor-abbott-declares-state-of-emergency)
 I don't see this ending well for anyone.
 Oh yeah, Texas also had a record number of COVID19 cases for one day on Sunday: 1,949. And, there's a tropical depression brewing off of the Yucatan peninsula.
-\*\*Update 6/8/2020\*\*
+**Update 6/8/2020**
 Thousands pay tribute to George Floyd at public viewing in Houston
-\*\*Update 6/10/2020\*\*
+**Update 6/10/2020**
 
-[![Sully](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993163/Ross-statue-vandalized-20200610/Ross-statue-vandalized-20200610.jpg?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993163/Ross-statue-vandalized-20200610/Ross-statue-vandalized-20200610.jpg?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1603993163/Ross-statue-vandalized-20200610/Ross-statue-vandalized-20200610.jpg?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1603993163/Ross-statue-vandalized-20200610/Ross-statue-vandalized-20200610.jpg?_i=AA)
 
 Even Texas A&M has felt the hatred of protesters. The Sul Ross statue was vandalized overnight with a rainbow-colored wig and graffiti - someone sprayed the words [BLM](https://en.wikipedia.org/wiki/Black\_Lives\_Matter), [ACAB](https://en.wikipedia.org/wiki/A.C.A.B.), and racist (and graphic depictions of the male sexual organ) on the statue with red paint.
 > [Lawrence Sullivan "Sully" Ross](https://en.wikipedia.org/wiki/Lawrence\_Sullivan\_Ross) was a Brigadier General during the Civil War and commander of the Texas Cavalry Brigade. After the war, he served as a Texas state senator, governor of Texas and, ultimately, president of the troubled Agricultural and Mechanical College of Texas, which eventually became Texas A&M University.

@@ -21,15 +21,15 @@ America250 and Freedom 250 are two separate organizations spearheading celebrati
 The Core Differences
 America250
 
-- \*\*Origins:\*\* A bipartisan non-profit and congressional commission established by law in 2016 to plan the Semiquincentennial.
-- \*\*Focus:\*\* Historical and educational events nationwide, including localized state celebrations and "America's Block Party".
-- \*\*Funding:\*\* Backed by federal dollars allocated by Congress and private donations. \[[2](https://www.wbaltv.com/article/america-250-vs-freedom-250-whats-the-difference/71464058), [3](https://www.nbcnews.com/politics/trump-administration/trump-freedom-250-concert-america-250-difference-artists-cancel-rcna347573)\]
+- **Origins:** A bipartisan non-profit and congressional commission established by law in 2016 to plan the Semiquincentennial.
+- **Focus:** Historical and educational events nationwide, including localized state celebrations and "America's Block Party".
+- **Funding:** Backed by federal dollars allocated by Congress and private donations. \[[2](https://www.wbaltv.com/article/america-250-vs-freedom-250-whats-the-difference/71464058), [3](https://www.nbcnews.com/politics/trump-administration/trump-freedom-250-concert-america-250-difference-artists-cancel-rcna347573)\]
 
 Freedom 250
 
-- \*\*Origins:\*\* Established by President Donald Trump via executive order as a public-private partnership Task Force. Trump serves as chair; Vice President JD Vance is vice chair.
-- \*\*Focus:\*\* Large-scale, high-profile spectacles in Washington, D.C., such as the Great American State Fair on the National Mall, UFC events, and World Cup Fan Zones.
-- \*\*Funding:\*\* Operates primarily as an outside fundraising arm heavily relying on private and international donations. \[[2](https://www.wbaltv.com/article/america-250-vs-freedom-250-whats-the-difference/71464058)\]
+- **Origins:** Established by President Donald Trump via executive order as a public-private partnership Task Force. Trump serves as chair; Vice President JD Vance is vice chair.
+- **Focus:** Large-scale, high-profile spectacles in Washington, D.C., such as the Great American State Fair on the National Mall, UFC events, and World Cup Fan Zones.
+- **Funding:** Operates primarily as an outside fundraising arm heavily relying on private and international donations. \[[2](https://www.wbaltv.com/article/america-250-vs-freedom-250-whats-the-difference/71464058)\]
 
 Controversy and Public Reception
 The existence of two separate entities has sparked political friction. Because the Trump administration formed a new group while an official bipartisan commission already existed, critics argue Freedom 250 is explicitly political and MAGA-aligned. For example, the Great American State Fair faced backlash and artist dropouts when musicians claimed they were misled about the event's political ties. Watchdog groups have also raised concerns over whether Freedom 250 events are selling political access in exchange for donations. \[[1](https://www.aljazeera.com/news/2026/6/14/america250-versus-freedom250-what-to-know-about-the-us-semiquincentennial), [2](https://www.wbaltv.com/article/america-250-vs-freedom-250-whats-the-difference/71464058), [6](https://thehill.com/homenews/state-watch/5900978-freedom-250-bash-celebrates-america/), [7](https://www.reddit.com/r/OutOfTheLoop/comments/1ts31s1/what\_is\_going\_on\_with\_freedom\_250\_and\_a\_maga/)\]

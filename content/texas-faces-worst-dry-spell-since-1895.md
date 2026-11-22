@@ -6,7 +6,7 @@ Tags: drought, fires, heat, Texas
 Slug: texas-faces-worst-dry-spell-since-1895
 Status: published
 
-[![texasdrought20110911](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939401/texasdrought20110911/texasdrought20110911.jpg?_i=AA "texasdrought20110911"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/09/texasdrought20110911.jpg)
+[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585939401/texasdrought20110911/texasdrought20110911.jpg?_i=AA "texasdrought20110911")](http://teamsiems.com/wp-content/uploads/2011/09/texasdrought20110911.jpg)
 
 Texas drought 2011-09-11
 
@@ -15,4 +15,4 @@ Texas isn't the only place affected by heat and drought.
 This drought and summer-heat is still going, and may continue until summer 2012. It did cool off last week though - lows in the mid-50's, highs in the low 90's - but we've only seen 1 inch of rain since August 1. That cool off is 2 weeks ahead of schedule. Usually we have a cool spell during the 3rd week of September.
 > Since January 1, state and local firefighters and crews from across the country have battled 18,887 wildfires over more than 3.5 million acres in Texas, according to state officials. Source: [More wildfires erupt in Texas as it faces worst dry spell since 1895 - CNN.com](http://www.cnn.com/2011/US/09/10/texas.fires/index.html?hpt=hp\_t2).
 Back in June I reported about [Global Weirding](http://teamsiems.com/2011/06/global-weirding-serves-texas-worst-drought-since-dust-bowl/) and the number of counties in exceptional drought. Well, as expected, the trend continued into September. As of September 6, 81% of counties are in exceptional drought - the worst on the Drought Monitor's scale.
-\*\*[See how fast wildfire spreads](http://youtu.be/vhJeDYQVtdQ) - Texas Parks and Wildlife\*\*
+**[See how fast wildfire spreads](http://youtu.be/vhJeDYQVtdQ) - Texas Parks and Wildlife**

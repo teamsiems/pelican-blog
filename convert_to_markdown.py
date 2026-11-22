@@ -53,6 +53,18 @@ def remove_wp_comments(text):
     return text
 
 
+def fix_bold_escaping(text):
+    """Fix **text** sequences that markdownify over-escapes in HTML text nodes."""
+    return re.sub(r'\\\*\\\*([^\n]+?)\\\*\\\*', r'**\1**', text)
+
+
+def fix_br_artifacts(text):
+    """Remove lone backslash lines left by <br> tags between block elements."""
+    text = re.sub(r'^\\\s*$', '', text, flags=re.MULTILINE)
+    text = re.sub(r'\n{3,}', '\n\n', text)
+    return text
+
+
 def convert_body(body):
     """Convert HTML in body to Markdown."""
     # Remove WordPress block comments first
@@ -84,34 +96,48 @@ def process_file(filepath):
     text = filepath.read_text(encoding="utf-8")
     frontmatter, body = split_frontmatter(text)
 
-    # Skip if body has no HTML tags (already clean Markdown)
-    if not re.search(r'<[a-zA-Z]', body) and '<!-- wp:' not in body:
-        return False  # no changes needed
+    new_body = body
+    html_converted = False
 
-    new_body = convert_body(body)
+    # Convert HTML to Markdown if HTML tags or WP block comments are present
+    if re.search(r'<[a-zA-Z]', body) or '<!-- wp:' in body:
+        new_body = convert_body(body)
+        html_converted = True
+
+    # Fix over-escaped bold markers — applies to both freshly converted and
+    # already-clean files (markdownify escapes ** in HTML text nodes)
+    new_body = fix_bold_escaping(new_body)
+    # Remove lone backslash lines left by <br> between block elements
+    new_body = fix_br_artifacts(new_body)
+
     new_text = frontmatter + new_body
-
     if new_text != text:
         filepath.write_text(new_text, encoding="utf-8")
-        return True
+        return "converted" if html_converted else "fixed"
     return False
 
 
 def main():
     files = sorted(CONTENT_DIR.glob("*.md"))
-    changed = 0
+    converted = 0
+    fixed = 0
     skipped = 0
     for f in files:
         try:
-            if process_file(f):
+            result = process_file(f)
+            if result == "converted":
                 print(f"  converted: {f.name}")
-                changed += 1
+                converted += 1
+            elif result == "fixed":
+                print(f"  fixed: {f.name}")
+                fixed += 1
             else:
                 skipped += 1
         except Exception as e:
             print(f"  ERROR {f.name}: {e}")
 
-    print(f"\nDone. {changed} files converted, {skipped} already clean.")
+    print(
+        f"\nDone. {converted} files converted, {fixed} files fixed, {skipped} already clean.")
 
 
 if __name__ == "__main__":

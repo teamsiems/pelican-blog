@@ -13,7 +13,7 @@ A big health concern is the massing of people: any place or event where people g
 ## Update 3/15/2020
 Last week the [WHO declared COVID-19 is a pandemic](https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020). Things are getting worse in the United States. Tomorrow, we're starting to work-from-home and shelter-in-place for at least 1 week and possibly up to 8 weeks. It is already affecting the US economy, and we are looking at a global recession. Mnuchin dropped the "we could reach 20% unemployment" bomb, and the Fed cut rates to 0.0%. Smaller restaurants and retail shops in my town - and every city and town - are closing; health departments are mandating bars & restaurants close dining rooms. Some restaurants are adjusting - drive through, curbside, delivery - some are not, opting to close instead.
 ## Update 4/3/2020
-[![Coronavirus map 4-2-2020](https://res.cloudinary.com/teamsiems/images/v1585942087/FireShot-Capture-012-COVID-19-Map-Johns-Hopkins-Coronavirus-Resource-Center_-coronavirus.jhu_.edu_/FireShot-Capture-012-COVID-19-Map-Johns-Hopkins-Coronavirus-Resource-Center_-coronavirus.jhu_.edu_.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1585942087/FireShot-Capture-012-COVID-19-Map-Johns-Hopkins-Coronavirus-Resource-Center_-coronavirus.jhu_.edu_/FireShot-Capture-012-COVID-19-Map-Johns-Hopkins-Coronavirus-Resource-Center_-coronavirus.jhu_.edu_.png?_i=AA)\
+[![Coronavirus map 4-2-2020](https://res.cloudinary.com/teamsiems/images/v1585942087/FireShot-Capture-012-COVID-19-Map-Johns-Hopkins-Coronavirus-Resource-Center_-coronavirus.jhu_.edu_/FireShot-Capture-012-COVID-19-Map-Johns-Hopkins-Coronavirus-Resource-Center_-coronavirus.jhu_.edu_.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1585942087/FireShot-Capture-012-COVID-19-Map-Johns-Hopkins-Coronavirus-Resource-Center_-coronavirus.jhu_.edu_/FireShot-Capture-012-COVID-19-Map-Johns-Hopkins-Coronavirus-Resource-Center_-coronavirus.jhu_.edu_.png?_i=AA)\
 
 Coronavirus map April 3, 2020. Source: [Johns Hopkins University](https://coronavirus.jhu.edu/map.html).
 
@@ -53,7 +53,7 @@ Cases have been "spiking" in Arizona, Texas, and Florida, after these states beg
 Meanwhile, we are still working from home (week 17), summer classes are 100% online, and we're in limbo looking at current case numbers and trying to plan for the future. The current plan is to have 50% online and 50% face-to-face classes in the fall with classes starting earlier on August 19, and ending November 24. Class days will be longer too, 8 am - 8:35 pm, and conference rooms will be used as classrooms.
 ## Update 7/18/2020
 As of today there have been 14,106,753 cases worldwide and 602,657 deaths ([JHU map](https://coronavirus.jhu.edu/map.html)); 3,647,715 cases in the United States and 139,266 deaths; 307,572 cases in Texas and 3,735 deaths ([Texas DSHS](https://www.dshs.texas.gov/coronavirus/)).
-[![locust](https://res.cloudinary.com/teamsiems/images/v1603993169/BrazosCountyCOVID-19Cases20200718/BrazosCountyCOVID-19Cases20200718.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1603993169/BrazosCountyCOVID-19Cases20200718/BrazosCountyCOVID-19Cases20200718.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1603993169/BrazosCountyCOVID-19Cases20200718/BrazosCountyCOVID-19Cases20200718.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1603993169/BrazosCountyCOVID-19Cases20200718/BrazosCountyCOVID-19Cases20200718.png?_i=AA)
 ## Update 8/1/2020
 As of today there have been 17,614,426 cases worldwide and 679,987 deaths ([JHU map](https://coronavirus.jhu.edu/map.html)); 4,563,445 cases in the United States and 153,320 deaths; 438,293 cases in Texas and 6,576 deaths ([Texas DSHS](https://www.dshs.texas.gov/coronavirus/)).
 ## Update 8/15/2020
@@ -79,13 +79,13 @@ As of today there have been 65,359,887 cases worldwide and 1,509,141 deaths ([JH
 As of today there have been 75,883,142 cases worldwide and 1,678,339 deaths ([JHU map](https://coronavirus.jhu.edu/map.html)); 17,485,578 cases in the United States and 313,942 deaths; 1,569,544 cases in Texas and 25,522 deaths ([Texas DSHS](https://www.dshs.texas.gov/coronavirus/)).
 The first vaccines from Pfizer were administered Monday (12/12/2020) to health care providers and nursing home staff.
 >>
-> \*\*First Americans Administered Pfizer’s Coronavirus Vaccine\\*\*
+> **First Americans Administered Pfizer’s Coronavirus Vaccine\**
 > ...the same day the U.S. death toll from the virus is expected to surpass 300,000.
 >
 >Source: [U.S. News](https://www.usnews.com/news/health-news/articles/2020-12-14/first-americans-administered-pfizers-coronavirus-vaccine)
 In other news, Texas A&M is requiring all faculty, staff, and students who live/work on campus to get tested before they return to work/school in January; tests must be administered January 2 - 12 and reported by January 15, 2021. To add insult to injury, A&M's insurance provider, Blue Cross, didn't renew its contract with CHI St. Joseph (12/17/2020) - the major, local health care provider - so we have fewer options for testing.
 >>
-> \*\*2nd COVID-19 vaccine authorized in US preparing to ship out\*\*
+> **2nd COVID-19 vaccine authorized in US preparing to ship out**
 > Boxes containing the Moderna COVID-19 vaccine are prepared to be shipped at the McKesson distribution center in Olive Branch, Miss., Sunday, Dec. 20, 2020.
 >
 >Source: [AP News](https://apnews.com/article/us-news-pandemics-coronavirus-pandemic-coronavirus-vaccine-145d1bae81aaa05df26cfed0d24f0e10)
@@ -161,7 +161,7 @@ Also this week, the Lambda variant popped up in a Houston hospital.
 ## Update 8/6/2021
 As of today there have been 201,106,458 cases worldwide and 4,271,616 deaths and 4,339,419,428 vaccinations administered ([JHU map](https://coronavirus.jhu.edu/map.html)); 35,444,963 cases in the United States and 615,347 deaths; 3,201,586 cases in Texas and 53,538 deaths.
 Over the past 30 days, there has been a growing trend in the number of cases (blamed on the Delta variant), but deaths are not following the trend. The number of vaccinations have slowed; curve flattening.
-[![very high](https://res.cloudinary.com/teamsiems/images/v1628258793/COVID-19-Cases-Deaths-20210806/COVID-19-Cases-Deaths-20210806.png?_i=AA){: .img-fluid }](https://res.cloudinary.com/teamsiems/images/v1628258793/COVID-19-Cases-Deaths-20210806/COVID-19-Cases-Deaths-20210806.png?_i=AA)
+[![](https://res.cloudinary.com/teamsiems/images/v1628258793/COVID-19-Cases-Deaths-20210806/COVID-19-Cases-Deaths-20210806.png?_i=AA)](https://res.cloudinary.com/teamsiems/images/v1628258793/COVID-19-Cases-Deaths-20210806/COVID-19-Cases-Deaths-20210806.png?_i=AA)
 ## Update 8/21/2021
 On Tuesday, August 17, Governor Greg Abbott tested positive for COVID-19.
 >>
@@ -178,7 +178,7 @@ Monday was the first day of classes at Texas A&M University (and near by Blinn C
 As of today there have been 217,848,001 cases worldwide and 4,522,230 deaths and 5,316,611,253 vaccinations administered ([JHU map](https://coronavirus.jhu.edu/map.html)); 39,200,751 cases in the United States and 640,121 deaths and 369,116,950 vaccinations; 3,612,246 cases in Texas and 57,044 deaths.
 ## Update 9/15/2021
 As of today there have been 226,013,637 cases worldwide and 4,653,053 deaths and 5,770,816,340 vaccinations administered ([JHU map](https://coronavirus.jhu.edu/map.html)); 41,389,308 cases in the United States and 664,346 deaths and 380,120,723 vaccinations; 3,871,122 cases in Texas and 60,423 deaths.
-The delta variant is currently the dominant strain, but the WHO and CDC are also watching the \*\*mu variant\*\* which was first detected in Columbia in January 2021.
+The delta variant is currently the dominant strain, but the WHO and CDC are also watching the **mu variant** which was first detected in Columbia in January 2021.
 >>
 > The World Health Organization last month listed it as a “variant of interest” because of concerns it may make vaccines and treatments less effective, though more evidence is needed.
 >
@@ -207,7 +207,7 @@ The omicron variant (B.1.1.529) that was discovered in Botswana and South Africa
 As of today there have been 268,774,060 cases worldwide and 5,292,013 deaths and 8,366,891,017 vaccinations administered ([JHU map](https://coronavirus.jhu.edu/map.html)); 49,684,488 cases in the United States and 794,905 deaths and 475,198,276 vaccinations; 4,371,038 cases in Texas and 74,458 deaths.
 ## Update 12/16/20201
 >>
-> \*\*How easily does Omicron spread? \*\*The Omicron variant likely will spread more easily than the original SARS-CoV-2 virus and how easily Omicron spreads compared to Delta remains unknown. CDC expects that anyone with Omicron infection can spread the virus to others, even if they are vaccinated or don’t have symptoms.
+> **How easily does Omicron spread? **The Omicron variant likely will spread more easily than the original SARS-CoV-2 virus and how easily Omicron spreads compared to Delta remains unknown. CDC expects that anyone with Omicron infection can spread the virus to others, even if they are vaccinated or don’t have symptoms.
 >
 >Source: [CDC.gov](https://www.cdc.gov/coronavirus/2019-ncov/variants/omicron-variant.html)
 ## Update 12/30/2021

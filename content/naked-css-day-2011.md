@@ -14,12 +14,12 @@ The website you just came from is not broken, the owner of it has decided to par
 ## What does that mean
 The idea behind this event is to promote Web Standards. Plain and simple. This includes proper use of html, semantic markup, a good hierarchy structure, and of course, a good 'ol play on words. It's time to show off your \ for what it really is.
 ## How to Participate
-\*\*[Enter your email address](http://naked.threepixeldrift.com/support/) to be alerted before April 9th of Naked CSS Day, this will give you time to get your name in our official list of participants.\*\*
+**[Enter your email address](http://naked.threepixeldrift.com/support/) to be alerted before April 9th of Naked CSS Day, this will give you time to get your name in our official list of participants.**
 Then on April 9th, simply remove all CSS from your website, stripping it entirely of its design.
 Also, Developers, Some have [suggested codes & scripts](http://naked.threepixeldrift.com/developers/) have been put together into a nice list.
 ## Famous Words
 "This is a fun idea, fully in line with the reasons for creating CSS in the first place.
 While most designers are attracted by the extra presentational capabilities, saving HTML from becoming a presentational language
 was probably a more important motivation for most people who participated in the beginning." - Håkon Wium Lie
-\*\*UPDATE:\*\*
+**UPDATE:**
 It seems the site where I got the content for Naked CSS Day 2011 isn't participating - ironic I know. But, there are a few around the world Tweeting about [Naked CSS](http://twitter.com/#!/search/naked%20css) day.

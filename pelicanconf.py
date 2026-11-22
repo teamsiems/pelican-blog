@@ -40,7 +40,7 @@ DEFAULT_PAGINATION = 10
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
 
-THEME = 'themes/simple'
+THEME = 'themes/bootstrap'
 
 # Enable article neighbors for next/previous navigation.
 PLUGINS = [
@@ -55,3 +55,6 @@ MARKDOWN = {
     },
     'output_format': 'html5',
 }
+
+# Added by chris
+DISPLAY_PAGES_ON_MENU = True

@@ -31,7 +31,7 @@ Republicans
 - ~~Asa Hutchinson~~
 - ~~Vivek Ramaswamy~~
 - ~~David Stuckenberg~~
-- \*\*Donald J. Trump\*\*
+- **Donald J. Trump**
 
 Democrats
 
@@ -43,7 +43,7 @@ Democrats
 - ~~Dean Phillips~~
 - ~~Cenk Uygur~~
 - ~~Marianne Williamson~~
-- \*\*Kamala Harris\*\*
+- **Kamala Harris**
 
 ## U.S. Senate
 Republicans

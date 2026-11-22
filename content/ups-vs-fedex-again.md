@@ -14,7 +14,7 @@ FedEx along with UPS and the Post Office (USPS) probably control 90 - 95% of pac
 The [FAA Reauthorization Act of 2009](http://thomas.loc.gov/cgi-bin/query/z?c111:H.R.915:) has already passed the House and is waiting for a vote in the Senate. A similar bill died in the Senate two years ago.
 Like most things involving Congress there's more to this bill and meets the eye. It was originally meant to improve the infrastructure of our aging air transportation and control systems, but then non-aviation groups (Teamsters) got involved.
 It's complicated for an outsider like me looking at this situation, but the yeas and nays will tell the story.
-\*\*Supporters\*\*
+**Supporters**
 United Postal Service
 National Air Traffic Controllers Association
 International Brotherhood of Teamsters
@@ -27,7 +27,7 @@ Air Transport Association of America
 Transport Workers Union of America
 General Aviation Manufacturers Association
 Rockwell Collins
-\*\*Opponents\\*\*
+**Opponents\**
 FedEx
 These two have been fighting for years. FedEx has always dominated the air - they are an airline - and UPS rules the ground. Every so often one will venture to closely to the other's turf and a battle erupts. The fine line this time is airline personnel versus non-airline personnel. UPS (more so the Teamsters) wants non-airline personnel covered by the NLRA.
 This time - if the bill passes - there will be a ripple effect in our (weak) economy. FedEx will probably lay people off (before they unionize and can't be laid off ), and they will buy [fewer airplanes](http://online.wsj.com/article/SB123791678454427343.html). That equates to billions of dollars taken out of the US economy all because a union wants the right to strike.

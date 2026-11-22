@@ -15,4 +15,4 @@ Cost:
 \$35.72 Purge Valve (engine compartment one)
 TOTAL: \$61.69
 GM Dealer quote: \$281.00
-\*\*I saved \$219.31!\*\*
+**I saved \$219.31!**

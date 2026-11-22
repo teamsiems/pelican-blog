@@ -6,10 +6,10 @@ Tags: inauguration, Obama
 Slug: barack-obamas-inaugural-address
 Status: published
 
-[![taking-the-oath](http://teamsiems.com/wp-content/uploads/2009/01/taking-the-oath-7595731-150x150.jpg "taking-the-oath"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/01/taking-the-oath-7595731.jpg)© MMVIII, CBS Interactive Inc. All Rights Reserved.
+[![](http://teamsiems.com/wp-content/uploads/2009/01/taking-the-oath-7595731-150x150.jpg "taking-the-oath")](http://teamsiems.com/wp-content/uploads/2009/01/taking-the-oath-7595731.jpg)© MMVIII, CBS Interactive Inc. All Rights Reserved.
 Barack Obama's Inaugural Address
 Jan. 20, 2009
-\*\*(CBS)\*\* \*President Barack Obama's Inaugural Address, as prepared for delivery\*:
+**(CBS)** \*President Barack Obama's Inaugural Address, as prepared for delivery\*:
 My fellow citizens:
 I stand here today humbled by the task before us, grateful for the trust you have bestowed, mindful of the sacrifices borne by our ancestors. I thank President Bush for his service to our nation, as well as the generosity and cooperation he has shown throughout this transition.
 Forty-four Americans have now taken the presidential oath. The words have been spoken during rising tides of prosperity and the still waters of peace. Yet, every so often the oath is taken amidst gathering clouds and raging storms. At these moments, America has carried on not simply because of the skill or vision of those in high office, but because We the People have remained faithful to the ideals of our forbearers, and true to our founding documents.

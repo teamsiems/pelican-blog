@@ -7,7 +7,7 @@ Slug: a-win-win-mbteams-and-green-bay-packers
 Status: published
 
 I think I'm going to UPDATE this blog until I'm blue in the face. There's more blogs about this race coming out every day.
-\*\*UPDATE: References\*\*
+**UPDATE: References**
 [Let’s show the power of the higher ed community!](http://collegewebeditor.com/blog/index.php/archives/2011/01/25/lets-show-the-power-of-the-higher-ed-community/)
 [Friday Five: Go \#MBTeamS Go!](http://highered.prblogs.org/2011/01/28/friday-five-go-mbteams-go/)
 [Under the radar - \#sachat needs to follow @tsand](http://ericstoller.com/blog/2011/01/28/under-the-radar-sachat-needs-to-follow-tsand/)
@@ -22,7 +22,7 @@ I think I'm going to UPDATE this blog until I'm blue in the face. There's more b
 
 [The Tweet Race: Epic Fail for Mercedes, or Failing Like a Fox?](http://museyroom.com/post/3228984954/the-tweet-race-epic-fail-for-mercedes-or-failing-like)
 
-[![mbteams-final](http://teamsiems.com/wp-content/uploads/2011/02/mbteams-final1-150x150.jpg "mbteams-final"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2011/02/mbteams-final1.jpg)
+[![](http://teamsiems.com/wp-content/uploads/2011/02/mbteams-final1-150x150.jpg "mbteams-final")](http://teamsiems.com/wp-content/uploads/2011/02/mbteams-final1.jpg)
 
 Final score on MBTweetRace.com
 
@@ -36,4 +36,4 @@ First, the race was a promotion for Mercedes-Benz. They are developing a new lin
 \[Sidebar: I find it a little ironic that Audi and BMW also had ads this year - the 3rd year of economic recession. I guess they're hurting too and want a wider customer base.\]
 Second, the race was a promotion for donations to the charities of the coaches. Pete's charity was St. Jude Children's Hospital. Mercedes donated \$45,000 to the winning team's charity. Todd and John, additionally, raised over \$5,000 from their friends, followers, and the social network community.
 Third, the race was a promotion of social media, or, more accurately, the power of social media. Through crowd-sourcing, Todd (it was mainly Todd) was able to reach out to the people that follow him on Twitter and Facebook, and they in-turn reached out to their followers, and so on. With that number of people, most of whom are proficient users of social media, Team S was able to keep their car "full" of tweets - from start to finish - each day.
-\*\*UPDATE\*\*: As the number of references grows, one can really begin to see the power there is in social media, and the influence one man can have on an entire community. Todd even had the \*cojones\* to visit us at HighEdWeb 2010 from his home via videos, tweets and pictures; he's that good.
+**UPDATE**: As the number of references grows, one can really begin to see the power there is in social media, and the influence one man can have on an entire community. Todd even had the \*cojones\* to visit us at HighEdWeb 2010 from his home via videos, tweets and pictures; he's that good.

@@ -12,5 +12,5 @@ This time he has been indicted on 37 counts in the classified documents probe. T
 >
 >Source: [Washington Post](https://www.washingtonpost.com/national-security/2023/06/08/trump-indicted-classified-documents/)
 The FBI searched Trump's Florida resort last August and found the documents; many labeled classified, some labeled top secret. After that search, President Joe Biden's former office was searched, and documents were found. Then former Vice President Mike Pence's house was searched, and documents were found.
-\*\*UPDATE 6/13/2023\*\*
+**UPDATE 6/13/2023**
 Trump was arraigned and pleaded not guilty to federal criminal charges in a court in Miami.

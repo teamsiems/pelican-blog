@@ -86,34 +86,34 @@ In Texas early voting starts February 18. If needed, the primary election runoff
 Texas has 228 Democratic delegates and 155 Republican delegates. 1283 The results for Texas are Joe 111, Bernie 102, Michael 10, Elizabeth 5 out of 228 Democratic delegates. For Republicans, Donald 117 of 155 total.
 Nationally, the totals so far are Joe 596, Bernie 531, Elizabeth 65, Michael 58, Pete 26, Amy 7, and Tulsi 1.
 After spending \$500+ million Michael Bloomberg dropped out on March 4. Bernie announced on March 4 that he will drop out if "Biden gets plurality" going into Democratic convention. On March 5, Elizabeth Warren withdrew from the race. This leaves Joe, Bernie, and Tulsi is still running.
-\*\*UPDATE\*\*: It looks like Texas is headed for primary [runoff elections](https://apps.texastribune.org/features/2020/texas-runoff-election-ballot/) on July 14.
+**UPDATE**: It looks like Texas is headed for primary [runoff elections](https://apps.texastribune.org/features/2020/texas-runoff-election-ballot/) on July 14.
 Here are the races in Texas as of July 1.
 President Democratic candidate:
 Joe Biden
 President Republican candidate:
 Donald Trump
-\*\*US Senate Democratic candidates:\*\*
+**US Senate Democratic candidates:**
 Mary Jennings Hegar
 Royce West
 US Senate Republican candidate:
 John Cornyn (incumbent)
-\*\*U.S. House of Representatives (District 17) Democratic candidates:\*\*
+**U.S. House of Representatives (District 17) Democratic candidates:**
 Rick Kennedy
 David Jaramillo
-\*\*U.S. House of Representatives (District 17) Republican candidates:\*\*
+**U.S. House of Representatives (District 17) Republican candidates:**
 Pete Sessions
 Renee Swann
 Texas House of Representatives (District 14) Democratic candidate:
 Janet Dudding
 Texas House of Representatives (District 14) Republican candidate:
 John Raney (incumbent)
-\*\*Railroad Commissioner Democratic candidates:\*\*
+**Railroad Commissioner Democratic candidates:**
 Chrysta Castañeda
 Roberto "Beto" Alonzo
 Railroad Commissioner Democratic candidate:
 James "Jim" Wright
 ### Texas Candidates
-\*\*U.S. Senate (Texas)\\*\*
+**U.S. Senate (Texas)\**
 Democratic Party candidates
 Chris Bell
 Michael Cooper
@@ -135,7 +135,7 @@ Dwayne Stovall
 Mark Yancey
 Independent candidates
 Ricardo Turullols-Bonilla
-\*\*U.S. House of Representatives (District 17 Texas)\*\*\\*
+**U.S. House of Representatives (District 17 Texas)**\\*
 Democratic Party candidates
 William Foster III
 David Jaramillo
@@ -155,27 +155,27 @@ Elianor Vessali
 Libertarian candidates
 Ted Brown
 \\*Bill Flores (R) is stepping down
-\*\*Texas Governor\\*\*
+**Texas Governor\**
 Greg Abbott (R) – Next election is 2022
-\*\*Texas Lieutenant Governor\\*\*
+**Texas Lieutenant Governor\**
 Dan Patrick (R) – Next election is 2022
-\*\*Texas Attorney General\\*\*
+**Texas Attorney General\**
 Ken Paxton (R) – Next election is 2022
-\*\*Texas Senate (District 5)\\*\*
+**Texas Senate (District 5)\**
 Charles Schwertner (R) – Next election is 2022
-\*\*Texas House of Representatives (District 14)\*\*
+**Texas House of Representatives (District 14)**
 Democratic Party candidates
 Janet Dudding
 Raza Rahman
 Republican Party candidates
 John Raney (incumbent)
-\*\*Comptroller of Public Accounts\*\*
+**Comptroller of Public Accounts**
 Glenn Hegar (R) – Next election 2022
-\*\*Commissioner of the General Land Office\*\*
+**Commissioner of the General Land Office**
 George P. Bush (R) – Next election 2022
-\*\*Commissioner of Agriculture\*\*
+**Commissioner of Agriculture**
 Sid Miller (R) – Next election 2022
-\*\*Railroad Commissioner\*\*
+**Railroad Commissioner**
 Democratic Party candidates
 Chrysta Castañeda
 Roberto "Beto" Alonzo

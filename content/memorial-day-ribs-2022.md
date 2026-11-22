@@ -8,11 +8,11 @@ Status: published
 
 This year is a repeat of last year. It's a 12 year tradition for me to make ribs on Memorial Day weekend. The world is on year 3 of the corona virus pandemic, but cases are dropping. This year I finished the ribs in the oven again. I haven't lit my grill in more than 18 months.
 ## Ingredients
-\*\*Meat\*\*
+**Meat**
 2 slabs (~6 lbs) of baby back ribs
-\*\*Rub\*\*
+**Rub**
 This year I bought a bottle of [Famous Dave's Rib Rub Seasoning](https://famousbbq.com/product/rib-rub-seasoning/) - it was good but expensive \$8.99 for 13.65oz.
-\*\*Sauce\*\*
+**Sauce**
 This year I used [Sweet Baby Ray's Original Barbecue Sauce](https://www.sweetbabyrays.com/Sauces/Barbecue-Sauces/Original-Barbecue-Sauce) on one slab and [Sweet Baby Ray's Honey Barbecue Sauce](https://www.sweetbabyrays.com/Sauces/Barbecue-Sauces/Honey-Barbecue-Sauce) on the other slab. I couldn't really tell the difference after they're baked on the ribs.
 ## Directions
 It was really easy this year since I didn't light the grill. Heat oven to 250 F. (My oven runs cool so I sometimes turn it up to 275 F.) Start by taking off the membrane that covers the bones. Then sprinkle top and bottom of the ribs with your favorite rub seasoning. Place ribs bones down, uncovered, on a foil covered roasting pan, and bake for 2 hours.

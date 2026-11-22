@@ -8,3 +8,5 @@ Status: published
 
 Today is the 10th annual Blue Beanie Day! \#bbd16
 Hail web standards!
+<http://bluebeanieday.tumblr.com/>
+<http://www.zeldman.com/2016/11/22/year-ever-blue-beanie-day-matters/>

@@ -6,7 +6,7 @@ Tags: heweb10, usability
 Slug: general-session-with-steve-krug-and-notes-on-dont-make-me-think
 Status: published
 
-\*\*Keynote at HighEdWeb 2010\*\*
+**Keynote at HighEdWeb 2010**
 [Steve Krug](http://twitter.com/SKrug) (pronounced "kroog") is best known as the author of "[Don't Make Me Think: A Common Sense Approach to Web Usability](http://www.sensible.com/dmmt.html)," now in its second edition with over 200,000 copies in print.
 His new book, "[Rocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems](http://www.sensible.com/rocketsurgery/index.html)," explains how everyone can-and should-be doing their own usability testing.
 His books are based on 20 years of experience as a usability consultant for a wide variety of clients like Apple, Bloomberg.com, Lexus.com, NPR, the International Monetary Fund, and many others. His consulting firm, [Advanced Common Sense](http://www.sensible.com/) ("just me and a few well-placed mirrors") is based in Chestnut Hill, MA.

@@ -7,7 +7,7 @@ Slug: the-2018-primary-election-in-texas
 Status: published
 
 The Primary Election [this year](http://www.sos.state.tx.us/elections/voter/2018-important-election-dates.shtml) is March 6 (early voting starts February 20, in 2 weeks), and the General Election will be November 6 (early voting starts October 22). So far it's a pretty quiet election - no hotly contested seats; Ted Cruz might have to campaign to keep his seat in the Senate.
-\*\*UPDATE\*\*: More than 30 races are headed to runoffs on May 22. I think I'm eligible to vote for one: Lupe Valdez (D) and Andrew White (D) for governor. Source: [Texas Tribune](https://www.texastribune.org/2018/03/08/more-30-texas-primary-races-are-headed-runoff-heres-what-you-need-know/).
+**UPDATE**: More than 30 races are headed to runoffs on May 22. I think I'm eligible to vote for one: Lupe Valdez (D) and Andrew White (D) for governor. Source: [Texas Tribune](https://www.texastribune.org/2018/03/08/more-30-texas-primary-races-are-headed-runoff-heres-what-you-need-know/).
 ## U.S. Senate (Texas)
 - [Ted Cruz](https://www.tedcruz.org/) (R) - incumbent
 - Geraldine Sam (R)
@@ -80,7 +80,7 @@ The Primary Election [this year](http://www.sos.state.tx.us/elections/voter/2018
 - Kyle Hawthorne (R) - incumbent
 ## District Judge, (Texas) 272nd Judicial District
 - Travis B. Bryan III (R) - Next election 2020
-\*\*District Judge, (Texas) 361st Judicial District\*\*
+**District Judge, (Texas) 361st Judicial District**
 - Steve Smith (R) - incumbent
 ## District Attorney – Brazos County
 - Jarvis Parsons (R) - Next election 2020

@@ -41,64 +41,64 @@ The General (Midterm) Election Day this year is November 8 (early voting starts 
 - Patrick Giammalva
 
 ------------------------------------------------------------------------
-\*\*U.S. House District 10\*\*
+**U.S. House District 10**
 
 - Michael T. McCaul (R) \[Incumbent\]
 - Linda Nuno (D)
 - Bill Kelsey (L)
 
-\*\*Texas Senate District 5\*\*
+**Texas Senate District 5**
 
 - Charles Schwertner (R) \[Incumbent\]
 - Tommy Estes (L)
 
-\*\*Texas House District 14\*\*
+**Texas House District 14**
 
 - John Raney (R) \[Incumbent\]
 - Jeff Miller (L)
 
-\*\*State Board Of Education District 10\*\*
+**State Board Of Education District 10**
 
 - Tom Maynard (R) \[Incumbent\]
 
 ## Statewide
-\*\*Governor\*\*
+**Governor**
 
 - Greg Abbott (R) \[Incumbent\]
 - Beto O'Rourke (D)
 - Mark Tippetts (L)
 - Delilah Barrios (G)
 
-\*\*Lieutenant Governor\*\*
+**Lieutenant Governor**
 
 - Dan Patrick (R) \[Incumbent\]
 - Mike Collier (D)
 - Shanna Steele (L)
 
-\*\*Attorney General\*\*
+**Attorney General**
 
 - Ken Paxton (R) \[Incumbent\]
 - Rochelle Garza (D)
 - Mark Ash (L)
 
-\*\*Land Commissioner\*\*
+**Land Commissioner**
 
 - Dawn Buckingham (R)
 - Jay Kleberg (D)
 - Alfred Molison (G)
 
-\*\*Agriculture Commissioner\*\*
+**Agriculture Commissioner**
 
 - Sid Miller (R) \[Incumbent\]
 - Susan Hays (D)
 
-\*\*Comptroller\*\*
+**Comptroller**
 
 - Glenn Hegar (R) \[Incumbent\]
 - Janet T. Dudding (D)
 - V. Alonzo Echevarria-Garza (L)
 
-\*\*Railroad Commissioner\*\*
+**Railroad Commissioner**
 
 - Wayne Christian (R) \[Incumbent\]
 - Luke Warford (D)

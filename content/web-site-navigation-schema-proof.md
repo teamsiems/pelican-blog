@@ -8,20 +8,16 @@ Status: published
 
 As a proof of concept I came up with a outline which led to a picture of a navigation schema. The idea is to link children through tags to their parents and to other families. I think it is better to start with grandchildren and work your way backward in lineage. Also, where families link, think of the intersection as one bond of two children. In the schema below, GrandChild-1 and GrandChild-2 are the same but separate.
 Reference .
-
 ## Outline
 
 - Parent-1
-- Child-1
-- GrandChild-1
+  - Child-1
+    - GrandChild-1
 - Parent-2
-- Child-2
-- GrandChild-2
+  - Child-2
+    - GrandChild-2
 
 ## Picture
-
 (I had a picture here originally, but Google lost it.)
-
 In practice I wasn't able to work out the nature of siblings and the relationship between families. Also, I think the picture is wrong: if GrandChild-1 and GrandChild-2 are the same then the small circle and the small square should be connected.
-
-I left the proof unfinished….
+I left the proof unfinished....

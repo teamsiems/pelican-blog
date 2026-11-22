@@ -19,8 +19,8 @@ First, look at the [congressional district map for Texas](http://www.govtrack.us
 - [Sen. John Cornyn](http://cornyn.senate.gov/public/) (R) Next Election: 2014
 - [Sen. Kay Hutchison](http://hutchison.senate.gov/) (R) Next Election: 2012
 ### [Representatives](http://www.house.gov/) (District 17):
-- [Rep. Chet Edwards](http://edwards.house.gov/) (D) Next Election: \*\*2010\*\*
-[\*\*Election Candidates:\*\*](http://www.texastribune.org/election-2010/us-house/)
+- [Rep. Chet Edwards](http://edwards.house.gov/) (D) Next Election: **2010**
+[**Election Candidates:**](http://www.texastribune.org/election-2010/us-house/)
 - [Chet Edwards](http://www.chetedwards.com/) (D)
 - [Rob Curnock](http://www.robcurnockforcongress.com/) (R)
 - [Timothy Delasandro](http://www.timothyforcongress.com/) (R)
@@ -31,21 +31,21 @@ First, look at the [congressional district map for Texas](http://www.govtrack.us
 ## [Texas Legislature](http://www.capitol.state.tx.us/):
 I live in the Senate's 5th district and House's 14th district.
 ### [Texas Senate](http://www.senate.state.tx.us/) (District 5):
-- [Steve Ogden](http://www.senate.state.tx.us/75r/Senate/members/dist5/dist5.htm) (R) Next Election: \*\*2010\*\*
-[\*\*Election Candidates:\*\*](http://www.texastribune.org/election-2010/tx-senate/)
+- [Steve Ogden](http://www.senate.state.tx.us/75r/Senate/members/dist5/dist5.htm) (R) Next Election: **2010**
+[**Election Candidates:**](http://www.texastribune.org/election-2010/tx-senate/)
 - [Steve Ogden](http://www.steveogden.org/) (R)
 - [Ben Bius](http://www.benfortexas.org/) (R)
 - Stephen M. Wyman (D)
 ### [Texas House](http://www.house.state.tx.us/welcome.php) (District 14):
-- [Brown, Fred](http://www.texastribune.org/directory/fred-brown/) (R) Next Election: \*\*2010\*\*
-[\*\*Election Candidates:\*\*](http://www.texastribune.org/election-2010/tx-house/)
+- [Brown, Fred](http://www.texastribune.org/directory/fred-brown/) (R) Next Election: **2010**
+[**Election Candidates:**](http://www.texastribune.org/election-2010/tx-house/)
 - [Fred Brown](http://www.representativefredbrown.com/) (R)
 - [Rick Davis](http://www.electrickdavis.com/) (R)
 - [Gerald "Buddy" Winn](http://www.buddywinn.org/) (R)
 - [Blanche Brick](http://blanchebrick.com/) (R)
 ## [Texas Governor](http://www.governor.state.tx.us/):
-[Rick Perry](http://governor.state.tx.us/about/) (R) Next Election: \*\*2010\*\*
-[\*\*Election Candidates:\*\*](http://www.texastribune.org/election-2010/statewide/)
+[Rick Perry](http://governor.state.tx.us/about/) (R) Next Election: **2010**
+[**Election Candidates:**](http://www.texastribune.org/election-2010/statewide/)
 - [Rick Perry](http://www.rickperry.org/) (R)
 - [Kay Bailey Hutchison](http://texans.forkay.com/) (R)
 - [Debra Medina](http://www.medinafortexas.com/) (R)

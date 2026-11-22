@@ -104,8 +104,7 @@ Drop the widgets
 embrace html5
 @atxryan
 ryanjoy.com
-\
-\
+
 autocomplete
 drag and drop
 audio and video
@@ -119,7 +118,7 @@ context menu
 Austin Hallock
 clay.io
 html5 games - cross platform
-\
+
 github.com/austinhallock/html5.tx
 10 Things You Didn't Know Browsers Could Do
 Estelle Weyl

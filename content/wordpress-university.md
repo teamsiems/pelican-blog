@@ -14,7 +14,7 @@ October 7
 
 View more [presentations](http://www.slideshare.net/) from [Stephanie Leary](http://www.slideshare.net/stephanieleary).
 
-\*\*CMS Capabilities\*\*
+**CMS Capabilities**
 - posts and pages
 - scheduled publishing
 - basic workflow
@@ -22,7 +22,7 @@ View more [presentations](http://www.slideshare.net/) from [Stephanie Leary](htt
 - excellent seo
 - ubiquitous feeds
 Killer Feature is the User Interface. (made by [happycog](http://www.happycog.com/))
-\*\*Post vs. Page\*\*
+**Post vs. Page**
 Posts have...
 - included in feeds
 - categories
@@ -114,13 +114,13 @@ Modify the query (query\_posts)
 - type
 - author
 - status
-\*\*Sidebars\*\*
+**Sidebars**
 one included by default - get\_sidebar()
 can use more than one with php file include syntax
-\*\*Widgets\*\*
+**Widgets**
 theme/plugin hybrid
 can be defined in functions.php or installed as part of a plugin
-\*\*Built-in Widgets\*\*
+**Built-in Widgets**
 - archives
 - categories
 - calendar

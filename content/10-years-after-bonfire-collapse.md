@@ -7,7 +7,7 @@ Slug: 10-years-after-bonfire-collapse
 Status: published
 
 Today, on the 10th anniversary of the Bonfire collapse at Texas A&M University, the mood is somber and reflective. We remember the 12 that died and the 27 that were injured. There are remembrances and stories of the past. The local television news on KBTX asked the question:
-> \*\*Where Were You When Bonfire Fell?\*\*
+> **Where Were You When Bonfire Fell?**
 > As a community marks ten years since 12 Aggies lost their lives, people are remembering where they were and what they were thinking a decade ago. Source: [Where Were You When Bonfire Fell?](http://www.kbtx.com/bonfire/headlines/70283492.html) \| KBTX.com
 My post was as follows (I know I misspelled St. Joseph.)
 
@@ -15,7 +15,7 @@ Posted by: Chris Location: Bryan \*on Nov 18, 2009 at 09:37 AM\*
 
 I was with my ex-wife in the St. Joesph emergency room. She was waiting for a shot for a migraine when the nurse came in and said we had to leave. She said that Bonfire collapsed, and they were receiving several injured.
 
-[![Collapse of Bonfire 1994](http://teamsiems.com/wp-content/uploads/2009/11/Bonfire1994-300x225.jpg "Bonfire1994"){: .img-fluid }](http://teamsiems.com/wp-content/uploads/2009/11/Bonfire1994.jpg)
+[![Collapse of Bonfire 1994](http://teamsiems.com/wp-content/uploads/2009/11/Bonfire1994-300x225.jpg "Bonfire1994")](http://teamsiems.com/wp-content/uploads/2009/11/Bonfire1994.jpg)
 
 Collapse of Bonfire 1994
 

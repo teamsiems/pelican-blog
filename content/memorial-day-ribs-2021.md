@@ -8,9 +8,9 @@ Status: published
 
 This year I sound like a broken record. I made ribs for Memorial Day weekend - using my tried and true recipe. The world is still in a corona virus pandemic, and more Americans are resisting getting vaccinated. This year I finished the ribs in the oven with bbq sauce; I don't think I've lit the grill in 9 months.
 ## Ingredients
-\*\*Meat\*\*
+**Meat**
 2 slabs (~6 lbs) of baby back ribs
-\*\*Rub\*\* (a little different than last year)
+**Rub** (a little different than last year)
 4 tablespoons firmly packed dark brown sugar
 4 tablespoons white sugar
 2 teaspoons paprika
