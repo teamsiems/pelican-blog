@@ -55,6 +55,11 @@ Done: Processed 591 articles, 0 drafts, 0 hidden articles, 0 pages, 0 hidden pag
 
 
 5:35 PM 11/21/2026
-pelican-import --wpfile -o content -m markdown teamsiems.WordPress.2026-11-21.xml
+pelican-import --wpfile -o content -m markdown --dir-page teamsiems.WordPress.2026-11-21.xml
+pelican content
+pelican --listen
+
+3:14 PM 11/23/2026
+pelican-import --wpfile -o content -m markdown --dir-page teamsiems.WordPress.2026-11-23.xml
 pelican content
 pelican --listen

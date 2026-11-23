@@ -6,10 +6,26 @@ Tags: weather
 Slug: expect-polar-coaster-this-winter
 Status: published
 
->>
-> Freezing. Frigid. Frosty. That's what you can expect this winter if you're in the United States, [according to the Farmers' Almanac](https://www.farmersalmanac.com/extended-forecast).
->
-> Source: [CNN](https://www.cnn.com/2019/08/27/weather/farmers-almanac-weather-forecast-2020-wxc-trnd/index.html)
+<!-- wp:quote -->
 
-![Farmers Almanac map 2019](https://res.cloudinary.com/teamsiems/images/v1585929950/farmers-almanac-map-2019/farmers-almanac-map-2019.jpg?_i=AA)
+> <!-- wp:paragraph -->
+>
+> Freezing. Frigid. Frosty. That's what you can expect this winter if you're in the United States, <a href="https://www.farmersalmanac.com/extended-forecast" target="_blank" rel="noreferrer noopener">according to the Farmers' Almanac</a>.
+>
+> <!-- /wp:paragraph --><cite> Source: [CNN](https://www.cnn.com/2019/08/27/weather/farmers-almanac-weather-forecast-2020-wxc-trnd/index.html)</cite>
+
+<!-- /wp:quote -->
+
+<!-- wp:image {"id":5381,"linkDestination":"none","align":"center"} -->
+
+<figure class="wp-block-image aligncenter">
+<img src="https://res.cloudinary.com/teamsiems/images/v1585929950/farmers-almanac-map-2019/farmers-almanac-map-2019.jpg?_i=AA" class="wp-image-5381" alt="Farmers Almanac map 2019" />
+</figure>
+
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+
 Here's to "Chilled, Average Precipitation" coming soon. Yesterday, we had the first thunderstorm in months, and it has felt like 100+ degrees since June.
+
+<!-- /wp:paragraph -->

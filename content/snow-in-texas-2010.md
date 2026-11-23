@@ -6,6 +6,15 @@ Tags: snow, Texas
 Slug: snow-in-texas-2010
 Status: published
 
-[![](http://farm5.static.flickr.com/4030/4350516452\_c898d5513a\_m.jpg)](http://www.flickr.com/photos/teamsiems/4350516452/ "photo sharing")
+<!-- wp:paragraph -->
+
+[![](http://farm5.static.flickr.com/4030/4350516452_c898d5513a_m.jpg)](http://www.flickr.com/photos/teamsiems/4350516452/ "photo sharing")  
 Originally uploaded by [teamsiems](http://www.flickr.com/photos/teamsiems/tags/snow/)
+
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+
 It snowed in Texas tonight, February 11, 2010.
+
+<!-- /wp:paragraph -->

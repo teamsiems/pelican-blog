@@ -7,5 +7,7 @@ Slug: aunt-ruth-makes-history
 Status: published
 
 The History Channel will run a piece on Ruth Siems and StoveTop dressing this Wednesday (November 22, 2006) evening.
+
 Probably "American Eats: Holiday Food"
-See
+
+See <http://www.history.com/>

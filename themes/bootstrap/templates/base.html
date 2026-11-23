@@ -22,7 +22,7 @@
 	{% endif %}
 
 	{% if FEED_ATOM %}
-        <link href="{{ FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
+	<link href="{{ FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
 	{% endif %}
 
 	{% if FEED_ALL_RSS %}
@@ -30,7 +30,7 @@
 	{% endif %}
 
 	{% if FEED_RSS %}
-        <link href="{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
+<link href="{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
 	{% endif %}
 
 	{% include "analytics.html" %}
@@ -40,9 +40,9 @@
 	{% include "facebook.html" %}
 	{% include "github.html" %}
 	<div class="topbar">
-	  <div class="topbar-inner">
+		<div class="topbar-inner">
 		<div class="container-fluid">
-		  <a class="brand" href="{{ SITEURL }}/">{{ SITENAME }}</a>
+			<a class="brand" href="{{ SITEURL }}/">{{ SITENAME }}</a>
 			<ul class="nav">
 				{% for title, link in MENUITEMS %}
 					<li><a href="{{ link }}">{{ title }}</a></li>
@@ -52,17 +52,37 @@
 						<li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
 					{% endfor %}
 				{% endif %}
+				<li>z{{DISPLAY_PAGES_ON_MENU}}z</li>
+				<!--
 				{% for cat, null in categories %}
 					<li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
 				{% endfor %}
+				-->
 			</ul>
-			<p class="pull-right"><a href="{{ SITEURL }}/archives.html">[archives]</a> <a href="{{ SITEURL }}/tags.html">[tags]</a></p>
+			<p class="pull-right">
+			
+			
+{% if pages is defined and pages|length > 0 %}
+    <span>Found {{ pages|length }} pages:</span>
+    <ul>
+    {% for page in pages %}
+        <li>{{ page.title }}</li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <span>No pages found (pages is empty or undefined).</span>
+{% endif %}			
+			
+			
+			<a href="{{ SITEURL }}/archives.html">[archives]</a>
+			<a href="{{ SITEURL }}/tags.html">[tags]</a>
+			</p>
 		</div>
-	  </div>
+		</div>
 	</div>
 
 	<div class="container-fluid">
-	  <div class="sidebar">
+		<div class="sidebar">
 		<div class="well">
 			<h3>Blogroll</h3>
 			<ul>
@@ -79,15 +99,15 @@
 			</ul>
 			</div>
 		</div>
-	  </div>
-	  <div class="content">
+		</div>
+		<div class="content">
 			{% block indextitle %}<div class="page-header"><h1>{% block title %} {{ self.windowtitle() }} {% endblock %}</h1></div>{% endblock %}
 			{% block content %}{% endblock %}
 		<footer>
-		  <p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</p>
-		  <p>&copy; {{ AUTHOR }}</p>
+			<p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</p>
+			<p>&copy; {{ AUTHOR }}</p>
 		</footer>
-	  </div>
+		</div>
 
 	</div>
 </body>

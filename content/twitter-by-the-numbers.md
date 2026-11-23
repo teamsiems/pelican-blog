@@ -6,12 +6,18 @@ Tags: stats, twitter
 Slug: twitter-by-the-numbers
 Status: published
 
-[![](https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585938036/first-tweet/first-tweet.png?_i=AA "first-tweet-ever")](http://teamsiems.com/wp-content/uploads/2011/03/first-tweet.png)
+<p>
 
-@jack sent the first tweet
+<figure>
+<a href="http://teamsiems.com/wp-content/uploads/2011/03/first-tweet.png"><img src="https://res.cloudinary.com/teamsiems/images/w_150,h_150,c_fill,g_auto/v1585938036/first-tweet/first-tweet.png?_i=AA" title="first-tweet-ever" class="size-thumbnail wp-image-2826" width="150" height="150" /></a>
+<figcaption>@jack sent the first tweet</figcaption>
+</figure>
 
-\#numbers Monday, March 14, 2011
+</p>
+
+\#numbers Monday, March 14, 2011  
 Five years ago this week, a small team of people started working on a prototype of the service that we now know as Twitter. On March 21, 2006, Jack Dorsey (@jack) sent the first Tweet. via [Twitter Blog: \#numbers](http://blog.twitter.com/2011/03/numbers.html).
+
 - **3 years, 2 months and 1 day.** The time it took from the first Tweet to the billionth Tweet.
 - **1 week.** The time it now takes for users to send a billion Tweets.
 - **50 million.** The average number of Tweets people sent per day, one year ago.
