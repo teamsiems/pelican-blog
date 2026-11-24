@@ -1,114 +1,124 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
-	<meta name="description" content="">
-	<meta name="author" content="{{ AUTHOR }}">
+	<head>
+		<meta charset="utf-8" />
+		<title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
+		<meta name="description" content="" />
+		<meta name="author" content="{{ AUTHOR }}" />
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/css/bootstrap.min.css" rel="stylesheet" />
+		<!-- HTML5 shim, for IE6-8 support of HTML elements -->
+		<!--[if lt IE 9]>
+			<script src="{{ SITEURL }}/theme/html5.js"></script>
+		<![endif]-->
 
-	<!-- HTML5 shim, for IE6-8 support of HTML elements -->
-	<!--[if lt IE 9]>
-		<script src="{{ SITEURL }}/theme/html5.js"></script>
-	<![endif]-->
+		<!-- Styles -->
+		<!--
+		<link href="{{ SITEURL }}/theme/bootstrap.min.css" rel="stylesheet" />
+		<link href="{{ SITEURL }}/theme/local.css" rel="stylesheet" />
+		<link href="{{ SITEURL }}/theme/pygments.css" rel="stylesheet" />
+		-->
 
-	<!-- Styles -->
-	<link href="{{ SITEURL }}/theme/bootstrap.min.css" rel="stylesheet">
-	<link href="{{ SITEURL }}/theme/local.css" rel="stylesheet">
-	<link href="{{ SITEURL }}/theme/pygments.css" rel="stylesheet">
+		<!-- Feeds -->
+		<!--
+		{% if FEED_ALL_ATOM %}
+		<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+		{% endif %} {% if FEED_ATOM %}
+		<link href="{{ FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml" />
+		{% endif %} {% if FEED_ALL_RSS %}
+		<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+		{% endif %} {% if FEED_RSS %}
+		<link href="{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml" />
+		{% endif %} {% include "analytics.html" %} {% include "disqus.html" %}
+		--></head>
+	<body>
+		<header class="sticky-top bg-dark text-light d-print-none ts-header">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="tsm-nav">
+							<a class="navbar-brand" href="{{ SITEURL }}/">{{ SITENAME }}</a>
+							<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+									{% for title, link in MENUITEMS %}
+									<li class="nav-item"><a class="nav-link" href="{{ link }}">{{ title }}</a></li>
+									{% endfor %} {% if DISPLAY_PAGES_ON_MENU %} {% for page in pages %}
+									<li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
+									{% endfor %} {% endif %}
 
-	<!-- Feeds -->
-	{% if FEED_ALL_ATOM %}
-	<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
-	{% endif %}
+									<!--
+									{% for cat, null in categories %}
+										<li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
+									{% endfor %}
+									-->
 
-	{% if FEED_ATOM %}
-	<link href="{{ FEED_ATOM }}" rel="alternate" title="{{ SITENAME }}" type="application/atom+xml">
-	{% endif %}
-
-	{% if FEED_ALL_RSS %}
-	<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
-	{% endif %}
-
-	{% if FEED_RSS %}
-<link href="{{ FEED_RSS }}" rel="alternate" title="{{ SITENAME }}" type="application/rss+xml">
-	{% endif %}
-
-	{% include "analytics.html" %}
-	{% include "disqus.html" %}
-</head>
-<body>
-	{% include "facebook.html" %}
-	{% include "github.html" %}
-	<div class="topbar">
-		<div class="topbar-inner">
-		<div class="container-fluid">
-			<a class="brand" href="{{ SITEURL }}/">{{ SITENAME }}</a>
-			<ul class="nav">
-				{% for title, link in MENUITEMS %}
-					<li><a href="{{ link }}">{{ title }}</a></li>
-				{% endfor %}
-				{% if DISPLAY_PAGES_ON_MENU %}
-					{% for page in pages %}
-						<li><a href="{{ SITEURL }}/{{ page.url }}">{{ page.title }}</a></li>
-					{% endfor %}
-				{% endif %}
-				<li>z{{DISPLAY_PAGES_ON_MENU}}z</li>
-				<!--
-				{% for cat, null in categories %}
-					<li {% if cat == category %}class="active"{% endif %}><a href="{{ SITEURL }}/{{ cat.url }}">{{ cat }}</a></li>
-				{% endfor %}
-				-->
-			</ul>
-			<p class="pull-right">
-			
-			
-{% if pages is defined and pages|length > 0 %}
-    <span>Found {{ pages|length }} pages:</span>
-    <ul>
-    {% for page in pages %}
-        <li>{{ page.title }}</li>
-    {% endfor %}
-    </ul>
-{% else %}
-    <span>No pages found (pages is empty or undefined).</span>
-{% endif %}			
-			
-			
-			<a href="{{ SITEURL }}/archives.html">[archives]</a>
-			<a href="{{ SITEURL }}/tags.html">[tags]</a>
-			</p>
-		</div>
-		</div>
-	</div>
-
-	<div class="container-fluid">
-		<div class="sidebar">
-		<div class="well">
-			<h3>Blogroll</h3>
-			<ul>
-				{% for name, link in LINKS %}
-				<li><a href="{{ link }}">{{ name }}</a></li>
-				{% endfor %}
-			</ul>
-			<div class="social">
-			<h3>Social</h3>
-			<ul>
-				{% for name, link in SOCIAL %}
-				<li><a href="{{ link }}">{{ name }}</a></li>
-				{% endfor %}
-			</ul>
+									<!--
+									{% if pages is defined and pages|length > 0 %}
+											<span>Found {{ pages|length }} pages:</span>
+											<ul>
+											{% for page in pages %}
+													<li>{{ page.title }}</li>
+											{% endfor %}
+											</ul>
+									{% else %}
+											<span>No pages found (pages is empty or undefined).</span>
+									{% endif %}			
+									-->
+									<li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/archives.html">archives</a></li>
+									<li class="nav-item"><a class="nav-link" href="{{ SITEURL }}/tags.html">tags</a></li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</div>
 			</div>
-		</div>
-		</div>
-		<div class="content">
-			{% block indextitle %}<div class="page-header"><h1>{% block title %} {{ self.windowtitle() }} {% endblock %}</h1></div>{% endblock %}
-			{% block content %}{% endblock %}
-		<footer>
-			<p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</p>
-			<p>&copy; {{ AUTHOR }}</p>
-		</footer>
-		</div>
+		</header>
+		<main>
+			<div class="container">
+				<div class="row">
+					<div class="col-md">
+						<!--
+						<div class="sidebar">
+							<div class="well">
+								<h3>Blogroll</h3>
+								<ul>
+									{% for name, link in LINKS %}
+									<li><a href="{{ link }}">{{ name }}</a></li>
+									{% endfor %}
+								</ul>
+								<div class="social">
+									<h3>Social</h3>
+									<ul>
+										{% for name, link in SOCIAL %}
+										<li><a href="{{ link }}">{{ name }}</a></li>
+										{% endfor %}
+									</ul>
+								</div>
+							</div>
+						</div>
+						-->
 
-	</div>
-</body>
+						<div class="content">
+							{% block indextitle %}
+							<div class="page-header"><h1>{% block title %} {{ self.windowtitle() }} {% endblock %}</h1></div>
+							{% endblock %} {% block content %}{% endblock %}
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+		<footer>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg text-center text-lg-start">
+						<p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</p>
+						<p>&copy; {{ AUTHOR }}</p>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/js/bootstrap.bundle.min.js"></script>
+	</body>
 </html>

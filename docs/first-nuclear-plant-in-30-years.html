@@ -1,133 +1,143 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>teamsiems</title>
-	<meta name="description" content="">
-	<meta name="author" content="c">
+	<head>
+		<meta charset="utf-8" />
+		<title>teamsiems</title>
+		<meta name="description" content="" />
+		<meta name="author" content="c" />
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/css/bootstrap.min.css" rel="stylesheet" />
+		<!-- HTML5 shim, for IE6-8 support of HTML elements -->
+		<!--[if lt IE 9]>
+			<script src="./theme/html5.js"></script>
+		<![endif]-->
 
-	<!-- HTML5 shim, for IE6-8 support of HTML elements -->
-	<!--[if lt IE 9]>
-		<script src="./theme/html5.js"></script>
-	<![endif]-->
+		<!-- Styles -->
+		<!--
+		<link href="./theme/bootstrap.min.css" rel="stylesheet" />
+		<link href="./theme/local.css" rel="stylesheet" />
+		<link href="./theme/pygments.css" rel="stylesheet" />
+		-->
 
-	<!-- Styles -->
-	<link href="./theme/bootstrap.min.css" rel="stylesheet">
-	<link href="./theme/local.css" rel="stylesheet">
-	<link href="./theme/pygments.css" rel="stylesheet">
+		<!-- Feeds -->
+		<!--
+     		--></head>
+	<body>
+		<header class="sticky-top bg-dark text-light d-print-none ts-header">
+			<div class="container">
+				<div class="row">
+					<div class="col">
+						<nav class="navbar navbar-expand-lg navbar-dark bg-dark" id="tsm-nav">
+							<a class="navbar-brand" href="./">teamsiems</a>
+							<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+							<div class="collapse navbar-collapse" id="navbarSupportedContent">
+								<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+  									<li class="nav-item"><a class="nav-link" href="./pages/portfolio.html">Portfolio</a></li>
+									<li class="nav-item"><a class="nav-link" href="./pages/profile.html">Profile</a></li>
+									<li class="nav-item"><a class="nav-link" href="./pages/projects.html">Projects</a></li>
+ 
+									<!--
+										<li ><a href="./category/blog.html">Blog</a></li>
+										<li ><a href="./category/economics.html">Economics</a></li>
+										<li ><a href="./category/economics-education-politics.html">Economics, Education, Politics</a></li>
+										<li ><a href="./category/economics-environment.html">Economics, Environment</a></li>
+										<li ><a href="./category/economics-history.html">Economics, History</a></li>
+										<li ><a href="./category/economics-personal.html">Economics, Personal</a></li>
+										<li ><a href="./category/economics-personal-politics-technology.html">Economics, Personal, Politics, Technology</a></li>
+										<li ><a href="./category/economics-politics.html">Economics, Politics</a></li>
+										<li ><a href="./category/economics-politics-technology.html">Economics, Politics, Technology</a></li>
+										<li ><a href="./category/economics-social-media.html">Economics, Social Media</a></li>
+										<li ><a href="./category/economics-technology.html">Economics, Technology</a></li>
+										<li ><a href="./category/education.html">Education</a></li>
+										<li ><a href="./category/education-personal.html">Education, Personal</a></li>
+										<li ><a href="./category/education-personal-social-media.html">Education, Personal, Social Media</a></li>
+										<li ><a href="./category/education-politics.html">Education, Politics</a></li>
+										<li ><a href="./category/education-social-media.html">Education, Social Media</a></li>
+										<li ><a href="./category/education-technology.html">Education, Technology</a></li>
+										<li ><a href="./category/environment.html">Environment</a></li>
+										<li ><a href="./category/environment-odd.html">Environment, Odd</a></li>
+										<li ><a href="./category/environment-personal.html">Environment, Personal</a></li>
+										<li ><a href="./category/europe.html">Europe</a></li>
+										<li ><a href="./category/europe-history-politics.html">Europe, History, Politics</a></li>
+										<li ><a href="./category/food.html">Food</a></li>
+										<li ><a href="./category/food-personal.html">Food, Personal</a></li>
+										<li ><a href="./category/health.html">Health</a></li>
+										<li ><a href="./category/health-personal.html">Health, Personal</a></li>
+										<li ><a href="./category/health-politics.html">Health, Politics</a></li>
+										<li ><a href="./category/history-politics.html">History, Politics</a></li>
+										<li ><a href="./category/misc.html">misc</a></li>
+										<li ><a href="./category/odd.html">Odd</a></li>
+										<li ><a href="./category/odd-personal-technology.html">Odd, Personal, Technology</a></li>
+										<li ><a href="./category/odd-politics.html">Odd, Politics</a></li>
+										<li ><a href="./category/odd-religion.html">Odd, Religion</a></li>
+										<li ><a href="./category/odd-social-media.html">Odd, Social Media</a></li>
+										<li ><a href="./category/odd-technology.html">Odd, Technology</a></li>
+										<li ><a href="./category/oit.html">OIT</a></li>
+										<li ><a href="./category/oit-personal.html">OIT, Personal</a></li>
+										<li ><a href="./category/oit-politics.html">OIT, Politics</a></li>
+										<li class="active"><a href="./category/personal.html">Personal</a></li>
+										<li ><a href="./category/personal-politics.html">Personal, Politics</a></li>
+										<li ><a href="./category/personal-religion.html">Personal, Religion</a></li>
+										<li ><a href="./category/personal-social-media.html">Personal, Social Media</a></li>
+										<li ><a href="./category/personal-social-media-technology.html">Personal, Social Media, Technology</a></li>
+										<li ><a href="./category/personal-technology.html">Personal, Technology</a></li>
+										<li ><a href="./category/politics.html">Politics</a></li>
+										<li ><a href="./category/politics-religion.html">Politics, Religion</a></li>
+										<li ><a href="./category/politics-social-media.html">Politics, Social Media</a></li>
+										<li ><a href="./category/politics-technology.html">Politics, Technology</a></li>
+										<li ><a href="./category/religion-technology.html">Religion, Technology</a></li>
+										<li ><a href="./category/science-technology.html">Science, Technology</a></li>
+										<li ><a href="./category/social-media.html">Social Media</a></li>
+										<li ><a href="./category/social-media-technology.html">Social Media, Technology</a></li>
+										<li ><a href="./category/technology.html">Technology</a></li>
+									-->
 
-	<!-- Feeds -->
-
-
-
-
-</head>
-<body>
-	<div class="topbar">
-		<div class="topbar-inner">
-		<div class="container-fluid">
-			<a class="brand" href="./">teamsiems</a>
-			<ul class="nav">
-						<li><a href="./pages/portfolio.html">Portfolio</a></li>
-						<li><a href="./pages/profile.html">Profile</a></li>
-						<li><a href="./pages/projects.html">Projects</a></li>
-				<li>zTruez</li>
-				<!--
-					<li ><a href="./category/blog.html">Blog</a></li>
-					<li ><a href="./category/economics.html">Economics</a></li>
-					<li ><a href="./category/economics-education-politics.html">Economics, Education, Politics</a></li>
-					<li ><a href="./category/economics-environment.html">Economics, Environment</a></li>
-					<li ><a href="./category/economics-history.html">Economics, History</a></li>
-					<li ><a href="./category/economics-personal.html">Economics, Personal</a></li>
-					<li ><a href="./category/economics-personal-politics-technology.html">Economics, Personal, Politics, Technology</a></li>
-					<li ><a href="./category/economics-politics.html">Economics, Politics</a></li>
-					<li ><a href="./category/economics-politics-technology.html">Economics, Politics, Technology</a></li>
-					<li ><a href="./category/economics-social-media.html">Economics, Social Media</a></li>
-					<li ><a href="./category/economics-technology.html">Economics, Technology</a></li>
-					<li ><a href="./category/education.html">Education</a></li>
-					<li ><a href="./category/education-personal.html">Education, Personal</a></li>
-					<li ><a href="./category/education-personal-social-media.html">Education, Personal, Social Media</a></li>
-					<li ><a href="./category/education-politics.html">Education, Politics</a></li>
-					<li ><a href="./category/education-social-media.html">Education, Social Media</a></li>
-					<li ><a href="./category/education-technology.html">Education, Technology</a></li>
-					<li ><a href="./category/environment.html">Environment</a></li>
-					<li ><a href="./category/environment-odd.html">Environment, Odd</a></li>
-					<li ><a href="./category/environment-personal.html">Environment, Personal</a></li>
-					<li ><a href="./category/europe.html">Europe</a></li>
-					<li ><a href="./category/europe-history-politics.html">Europe, History, Politics</a></li>
-					<li ><a href="./category/food.html">Food</a></li>
-					<li ><a href="./category/food-personal.html">Food, Personal</a></li>
-					<li ><a href="./category/health.html">Health</a></li>
-					<li ><a href="./category/health-personal.html">Health, Personal</a></li>
-					<li ><a href="./category/health-politics.html">Health, Politics</a></li>
-					<li ><a href="./category/history-politics.html">History, Politics</a></li>
-					<li ><a href="./category/misc.html">misc</a></li>
-					<li ><a href="./category/odd.html">Odd</a></li>
-					<li ><a href="./category/odd-personal-technology.html">Odd, Personal, Technology</a></li>
-					<li ><a href="./category/odd-politics.html">Odd, Politics</a></li>
-					<li ><a href="./category/odd-religion.html">Odd, Religion</a></li>
-					<li ><a href="./category/odd-social-media.html">Odd, Social Media</a></li>
-					<li ><a href="./category/odd-technology.html">Odd, Technology</a></li>
-					<li ><a href="./category/oit.html">OIT</a></li>
-					<li ><a href="./category/oit-personal.html">OIT, Personal</a></li>
-					<li ><a href="./category/oit-politics.html">OIT, Politics</a></li>
-					<li class="active"><a href="./category/personal.html">Personal</a></li>
-					<li ><a href="./category/personal-politics.html">Personal, Politics</a></li>
-					<li ><a href="./category/personal-religion.html">Personal, Religion</a></li>
-					<li ><a href="./category/personal-social-media.html">Personal, Social Media</a></li>
-					<li ><a href="./category/personal-social-media-technology.html">Personal, Social Media, Technology</a></li>
-					<li ><a href="./category/personal-technology.html">Personal, Technology</a></li>
-					<li ><a href="./category/politics.html">Politics</a></li>
-					<li ><a href="./category/politics-religion.html">Politics, Religion</a></li>
-					<li ><a href="./category/politics-social-media.html">Politics, Social Media</a></li>
-					<li ><a href="./category/politics-technology.html">Politics, Technology</a></li>
-					<li ><a href="./category/religion-technology.html">Religion, Technology</a></li>
-					<li ><a href="./category/science-technology.html">Science, Technology</a></li>
-					<li ><a href="./category/social-media.html">Social Media</a></li>
-					<li ><a href="./category/social-media-technology.html">Social Media, Technology</a></li>
-					<li ><a href="./category/technology.html">Technology</a></li>
-				-->
-			</ul>
-			<p class="pull-right">
+									<!--
+											<span>Found 3 pages:</span>
+											<ul>
+													<li>Portfolio</li>
+													<li>Profile</li>
+													<li>Projects</li>
+											</ul>
 			
-			
-    <span>Found 3 pages:</span>
-    <ul>
-        <li>Portfolio</li>
-        <li>Profile</li>
-        <li>Projects</li>
-    </ul>
-			
-			
-			
-			<a href="./archives.html">[archives]</a>
-			<a href="./tags.html">[tags]</a>
-			</p>
-		</div>
-		</div>
-	</div>
-
-	<div class="container-fluid">
-		<div class="sidebar">
-		<div class="well">
-			<h3>Blogroll</h3>
-			<ul>
-				<li><a href="https://getpelican.com/">Pelican</a></li>
-				<li><a href="https://www.python.org/">Python.org</a></li>
-				<li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
-				<li><a href="#">You can modify those links in your config file</a></li>
-			</ul>
-			<div class="social">
-			<h3>Social</h3>
-			<ul>
-				<li><a href="#">You can add links in your config file</a></li>
-				<li><a href="#">Another social link</a></li>
-			</ul>
+									-->
+									<li class="nav-item"><a class="nav-link" href="./archives.html">archives</a></li>
+									<li class="nav-item"><a class="nav-link" href="./tags.html">tags</a></li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</div>
 			</div>
-		</div>
-		</div>
-		<div class="content">
-	<div class='article'>
+		</header>
+		<main>
+			<div class="container">
+				<div class="row">
+					<div class="col-md">
+						<!--
+						<div class="sidebar">
+							<div class="well">
+								<h3>Blogroll</h3>
+								<ul>
+									<li><a href="https://getpelican.com/">Pelican</a></li>
+									<li><a href="https://www.python.org/">Python.org</a></li>
+									<li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
+									<li><a href="#">You can modify those links in your config file</a></li>
+								</ul>
+								<div class="social">
+									<h3>Social</h3>
+									<ul>
+										<li><a href="#">You can add links in your config file</a></li>
+										<li><a href="#">Another social link</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+						-->
+
+						<div class="content">
+ 	<div class='article'>
 		<div class="page-header"><h1>First nuclear plant in 30 years</h1></div>
 		<div class="well small">Permalink: <a class="more" href="./first-nuclear-plant-in-30-years.html">2010-02-17 10:17:00-06:00</a>
 by <a class="url fn" href="./author/chris.html">chris </a>
@@ -141,12 +151,21 @@ tags: <a href="./tag/nuclear-power.html">nuclear power</a> </div>
 <p>838 MW * \$1,630,000/MW = \$1,365,940,000</p>
 <p>838MW * \$4,377,000/MW = \$3,667,926,000</p></div>
 	</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
 		<footer>
-			<p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</p>
-			<p>&copy; c</p>
+			<div class="container">
+				<div class="row">
+					<div class="col-lg text-center text-lg-start">
+						<p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="http://twitter.github.com/bootstrap/">Twitter Bootstrap</a>.</p>
+						<p>&copy; c</p>
+					</div>
+				</div>
+			</div>
 		</footer>
-		</div>
-
-	</div>
-</body>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.9/dist/js/bootstrap.bundle.min.js"></script>
+	</body>
 </html>

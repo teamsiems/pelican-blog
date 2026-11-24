@@ -8,7 +8,7 @@ Status: published
 
 <!-- wp:paragraph -->
 
-[![](http://farm5.static.flickr.com/4030/4350516452_c898d5513a_m.jpg)](http://www.flickr.com/photos/teamsiems/4350516452/ "photo sharing")  
+[![Snow in Texas](http://farm5.static.flickr.com/4030/4350516452_c898d5513a_m.jpg)](http://www.flickr.com/photos/teamsiems/4350516452/ "photo sharing")  
 Originally uploaded by [teamsiems](http://www.flickr.com/photos/teamsiems/tags/snow/)
 
 <!-- /wp:paragraph -->
