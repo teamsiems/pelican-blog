@@ -63,3 +63,8 @@ pelican --listen
 pelican-import --wpfile -o content -m markdown --dir-page teamsiems.WordPress.2026-11-23.xml
 pelican content
 pelican --listen
+
+3:40 PM 11/24/2026
+pelican-import --wpfile -o content -m markdown --dir-page teamsiems.WordPress.2026-11-24.xml
+pelican content
+pelican --listen
