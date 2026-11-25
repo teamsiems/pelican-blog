@@ -1,7 +1,9 @@
 <!doctype html>
 <html lang="en">
 	<head>
-		<meta charset="utf-8" />
+		<meta content="text/html; charset=UTF-8" http-equiv="content-type">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>{% block windowtitle %}{{ SITENAME }}{% endblock %}</title>
 		<meta name="description" content="" />
 		<meta name="author" content="{{ AUTHOR }}" />
@@ -113,8 +115,7 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-lg text-center text-lg-start">
-						<p>Powered by <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap</a>.</p>
-						<p>&copy; {{ AUTHOR }}</p>
+						<p>&copy; {{ CURRENT_YEAR }} <a href="{{ SITEURL }}">{{ SITENAME }}</a>. Built with <a href="http://getpelican.com/">Pelican</a>. Theme based on <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap</a>.</p>
 					</div>
 				</div>
 			</div>
